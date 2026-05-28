@@ -13,3 +13,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 2 | Running Sum of 1d Array | Java | [Problem](./Running%20Sum%20of%201d%20Array/Problem.text) | [Solution](./Running%20Sum%20of%201d%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/running-sum-of-1d-array/submissions/?envType=problem-list-v2&envId=avfdr151) |
 
 | 3 | Find Numbers with Even Number of Digits | Java | [Problem](./Find%20Numbers%20with%20Even%20Number%20of%20Digits/Problem.text) | [Solution](./Find%20Numbers%20with%20Even%20Number%20of%20Digits/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/?envType=problem-list-v2&envId=avfdr151) |
+
+| 4 | Remove Element | Java | [Problem](./Remove%20Element/Problem.text) | [Solution](./Remove%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-element/submissions/?envType=problem-list-v2&envId=avfdr151) |
