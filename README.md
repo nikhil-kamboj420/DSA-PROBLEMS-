@@ -20,3 +20,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 | 6 | Remove Duplicates from Sorted Array | Java | [Problem](./Remove%20Duplicates%20from%20Sorted%20Array/Problem.text) | [Solution](./Remove%20Duplicates%20from%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2016477583) |
 
+| 7 | Contains Duplicate | Java | [Problem](./Contains%20Duplicate/Problem.text) | [Solution](./Contains%20Duplicate/Solution.text) | [My Submission Link](https://leetcode.com/problems/contains-duplicate/submissions/2018196439) |
+
