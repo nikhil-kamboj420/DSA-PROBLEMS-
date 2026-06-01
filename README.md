@@ -22,3 +22,4 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 | 7 | Contains Duplicate | Java | [Problem](./Contains%20Duplicate/Problem.text) | [Solution](./Contains%20Duplicate/Solution.text) | [My Submission Link](https://leetcode.com/problems/contains-duplicate/submissions/2018196439) |
 
+| 8 | Find Pivot Index | Java | [Problem](./Find%20Pivot%20Index/Problem.text) | [Solution](./Find%20Pivot%20Index/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-pivot-index/submissions/2019131950) |
