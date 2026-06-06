@@ -25,3 +25,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 8 | Find Pivot Index | Java | [Problem](./Find%20Pivot%20Index/Problem.text) | [Solution](./Find%20Pivot%20Index/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-pivot-index/submissions/2019131950) |
 
 | 9 | Valid Palindrome | Java | [Problem](./Valid%20Palindrome/Problem.text) | [Solution](./Valid%20Palindrome/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-palindrome/submissions/2023367640) |
+
+| 10 | Reverse String | Java | [Problem](./Reverse%20String/Problem.text) | [Solution](./Reverse%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/reverse-string/submissions/2024220802) |
