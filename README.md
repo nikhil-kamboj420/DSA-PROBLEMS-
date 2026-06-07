@@ -27,3 +27,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 9 | Valid Palindrome | Java | [Problem](./Valid%20Palindrome/Problem.text) | [Solution](./Valid%20Palindrome/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-palindrome/submissions/2023367640) |
 
 | 10 | Reverse String | Java | [Problem](./Reverse%20String/Problem.text) | [Solution](./Reverse%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/reverse-string/submissions/2024220802) |
+
+| 11 | Move Zeroes | Java | [Problem](./Move%20Zeroes/Problem.text) | [Solution](./Move%20Zeroes/Solution.text) | [My Submission Link](https://leetcode.com/problems/move-zeroes/submissions/2025335706) |
