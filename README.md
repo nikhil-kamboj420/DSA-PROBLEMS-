@@ -29,3 +29,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 10 | Reverse String | Java | [Problem](./Reverse%20String/Problem.text) | [Solution](./Reverse%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/reverse-string/submissions/2024220802) |
 
 | 11 | Move Zeroes | Java | [Problem](./Move%20Zeroes/Problem.text) | [Solution](./Move%20Zeroes/Solution.text) | [My Submission Link](https://leetcode.com/problems/move-zeroes/submissions/2025335706) |
+
+| 12 | Merge Sorted Array | Java | [Problem](./Merge%20Sorted%20Array/Problem.text) | [Solution](./Merge%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-sorted-array/submissions/2026312915) |
