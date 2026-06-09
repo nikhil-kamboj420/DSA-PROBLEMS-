@@ -31,3 +31,6 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 11 | Move Zeroes | Java | [Problem](./Move%20Zeroes/Problem.text) | [Solution](./Move%20Zeroes/Solution.text) | [My Submission Link](https://leetcode.com/problems/move-zeroes/submissions/2025335706) |
 
 | 12 | Merge Sorted Array | Java | [Problem](./Merge%20Sorted%20Array/Problem.text) | [Solution](./Merge%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-sorted-array/submissions/2026312915) |
+
+
+| 13 |Squares of a Sorted Array| Java | [Problem](./Squares%20of%20a%20Sorted%20Array/Problem.text) | [Solution](./Squares%20of%20a%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2027140153) |
