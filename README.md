@@ -34,3 +34,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 
 | 13 |Squares of a Sorted Array| Java | [Problem](./Squares%20of%20a%20Sorted%20Array/Problem.text) | [Solution](./Squares%20of%20a%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2027140153) |
+
+| 14 |Two Sum II - Input Array Is Sorted| Java | [Problem](./Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Problem.text) | [Solution](./Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Solution.text) | [My Submission Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2028776152) |
