@@ -40,3 +40,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 15 |Container With Most Water| Java | [Problem](./Container%20With%20Most%20Water/Problem.text) | [Solution](./Container%20With%20Most%20Water/Solution.text) | [My Submission Link](https://leetcode.com/problems/container-with-most-water/submissions/2029774245) |
 
 | 16 |3Sum| Java | [Problem](./3Sum/Problem.text) | [Solution](./3Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum/submissions/2030962833) |
+
+| 17 |Maximum Average Subarray I| Java | [Problem](./Maximum%20Average%20Subarray%20I/Problem.text) | [Solution](./Maximum%20Average%20Subarray%20I/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-average-subarray-i/submissions/2031971033) |
