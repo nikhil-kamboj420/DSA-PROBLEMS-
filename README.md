@@ -44,3 +44,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 17 |Maximum Average Subarray I| Java | [Problem](./Maximum%20Average%20Subarray%20I/Problem.text) | [Solution](./Maximum%20Average%20Subarray%20I/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-average-subarray-i/submissions/2031971033) |
 
 | 18 |Minimum Size Subarray Sum| Java | [Problem](./Minimum%20Size%20Subarray%20Sum/Problem.text) | [Solution](./Minimum%20Size%20Subarray%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2032970587) |
+
+| 18 |Longest Substring Without Repeating Characters| Java | [Problem](./Longest%20Substring%20Without%20Repeating%20Characters/Problem.text) | [Solution](./Longest%20Substring%20Without%20Repeating%20Characters/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2033918890) |
