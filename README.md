@@ -48,3 +48,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 19 |Longest Substring Without Repeating Characters| Java | [Problem](./Longest%20Substring%20Without%20Repeating%20Characters/Problem.text) | [Solution](./Longest%20Substring%20Without%20Repeating%20Characters/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2033918890) |
 
 | 20 |Longest Repeating Character Replacement| Java | [Problem](./Longest%20Repeating%20Character%20Replacement/Problem.text) | [Solution](./Longest%20Repeating%20Character%20Replacement/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2034042201) |
+
+| 21 |Maximum Points You Can Obtain from Cards| Java | [Problem](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
