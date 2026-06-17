@@ -52,3 +52,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 21 |Maximum Points You Can Obtain from Cards| Java | [Problem](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
 
 | 22 |Subarray Sum Equals K| Java | [Problem](./Subarray%20Sum%20Equals%20K/Problem.text) | [Solution](./Subarray%20Sum%20Equals%20K/Solution.text) | [My Submission Link](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2036364033) |
+
+| 23 |Range Sum Query - Immutable| Java | [Problem](./Range%20Sum%20Query%20-%20Immutable/Problem.text) | [Solution](./Range%20Sum%20Query%20-%20Immutable/Solution.text) | [My Submission Link](https://leetcode.com/problems/range-sum-query-immutable/submissions/2036431905) |
