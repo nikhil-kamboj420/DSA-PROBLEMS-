@@ -50,3 +50,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 20 |Longest Repeating Character Replacement| Java | [Problem](./Longest%20Repeating%20Character%20Replacement/Problem.text) | [Solution](./Longest%20Repeating%20Character%20Replacement/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2034042201) |
 
 | 21 |Maximum Points You Can Obtain from Cards| Java | [Problem](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
+
+| 22 |Subarray Sum Equals K| Java | [Problem](./Subarray%20Sum%20Equals%20K/Problem.text) | [Solution](./Subarray%20Sum%20Equals%20K/Solution.text) | [My Submission Link](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2036364033) |
