@@ -56,3 +56,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 23 |Range Sum Query - Immutable| Java | [Problem](./Range%20Sum%20Query%20-%20Immutable/Problem.text) | [Solution](./Range%20Sum%20Query%20-%20Immutable/Solution.text) | [My Submission Link](https://leetcode.com/problems/range-sum-query-immutable/submissions/2036431905) |
 
 | 24 |Continuous Subarray Sum| Java | [Problem](./Continuous%20Subarray%20Sum/Problem.text) | [Solution](./Continuous%20Subarray%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/continuous-subarray-sum/submissions/2037196268) |
+
+| 25 |Majority Element| Java | [Problem](./Majority%20Element/Problem.text) | [Solution](./Majority%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/majority-element/submissions/2037360897) |
