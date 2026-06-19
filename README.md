@@ -58,3 +58,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 24 |Continuous Subarray Sum| Java | [Problem](./Continuous%20Subarray%20Sum/Problem.text) | [Solution](./Continuous%20Subarray%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/continuous-subarray-sum/submissions/2037196268) |
 
 | 25 |Majority Element| Java | [Problem](./Majority%20Element/Problem.text) | [Solution](./Majority%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/majority-element/submissions/2037360897) |
+
+| 26 |Valid Anagram| Java | [Problem](./Valid%20Anagram/Problem.text) | [Solution](./Valid%20Anagram/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-anagram/submissions/2038977575) |
