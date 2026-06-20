@@ -60,3 +60,6 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 25 |Majority Element| Java | [Problem](./Majority%20Element/Problem.text) | [Solution](./Majority%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/majority-element/submissions/2037360897) |
 
 | 26 |Valid Anagram| Java | [Problem](./Valid%20Anagram/Problem.text) | [Solution](./Valid%20Anagram/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-anagram/submissions/2038977575) |
+
+| 27 |Top K Frequent Elements| Java | [Problem](./Top%20K%20Frequent%20Elements/Problem.text) | [Solution](./Top%20K%20Frequent%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2039806932) |
+
