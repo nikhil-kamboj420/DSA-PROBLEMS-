@@ -63,3 +63,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 | 27 |Top K Frequent Elements| Java | [Problem](./Top%20K%20Frequent%20Elements/Problem.text) | [Solution](./Top%20K%20Frequent%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2039806932) |
 
+| 28 |Longest Consecutive Sequence| Java | [Problem](./Longest%20Consecutive%20Sequence/Problem.text) | [Solution](./Longest%20Consecutive%20Sequence/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-consecutive-sequence/submissions/2041211207) |
+
