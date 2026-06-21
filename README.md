@@ -65,3 +65,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 | 28 |Longest Consecutive Sequence| Java | [Problem](./Longest%20Consecutive%20Sequence/Problem.text) | [Solution](./Longest%20Consecutive%20Sequence/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-consecutive-sequence/submissions/2041211207) |
 
+| 29 |Best Time to Buy and Sell Stock| Java | [Problem](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041204519) |
+
