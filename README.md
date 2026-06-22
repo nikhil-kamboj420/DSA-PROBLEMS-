@@ -69,3 +69,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 | 30 | Group Anagrams| Java | [Problem](./Group%20Anagrams/Problem.text) | [Solution](./Group%20Anagrams/Solution.text) | [My Submission Link](https://leetcode.com/problems/group-anagrams/submissions/2041845864) |
 
+| 31 |Maximum Subarray| Java | [Problem](./Maximum%20Subarray/Problem.text) | [Solution](./Maximum%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
+
