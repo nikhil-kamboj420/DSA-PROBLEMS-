@@ -67,3 +67,5 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 | 29 |Best Time to Buy and Sell Stock| Java | [Problem](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041204519) |
 
+| 30 | Group Anagrams| Java | [Problem](./Group%20Anagrams/Problem.text) | [Solution](./Group%20Anagrams/Solution.text) | [My Submission Link](https://leetcode.com/problems/group-anagrams/submissions/2041845864) |
+
