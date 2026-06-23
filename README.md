@@ -2,9 +2,29 @@
 
 Solving DSA problems for a better understanding of data structures and algorithms, aiming to write efficient and robust code to become a production-ready engineer.
 
+# ✅ Start Here (Learning Sequence)
+
+Follow this sequence to build skills step-by-step. Each step below is a clickable folder in this repo:
+
+- [Arrays + Prefix Sum & Two Pointers](./Arrays%20+%20Prefix%20Sum%20&%20Two%20Pointers/)
+- [Arrays & Two Pointers](./Arrays%20&%20Two%20Pointers/)
+- [Strings + Two Pointers](./Strings%20+%20Two%20Pointers/)
+- [Sliding Window + Array Patterns](./Sliding%20Window%20+%20Array%20Patterns/)
+- [Sliding Window + Prefix Sum & Hashing](./Sliding%20Window%20+%20Prefix%20Sum%20&%20Hashing/)
+- [Stack & Monotonic Stack](./Stack%20&%20Monotonic%20Stack/)
+- [Stack & Monotonic Stack + Queue & BFS](./Stack%20&%20Monotonic%20Stack%20+%20Queue%20&%20BFS/)
+- [Queue & BFS + Binary Search](./Queue%20&%20BFS%20+%20Binary%20Search/)
+- [Binary Search + Trees (Traversal & DFS)](<./Binary%20Search%20+%20Trees%20(Traversal%20&%20DFS)/>)
+- [Trees (Traversal & DFS)](<./Trees%20(Traversal%20&%20DFS)/>)
+- [Trees (Traversal & DFS) + Trees (BST & Advanced)](<./Trees%20(Traversal%20&%20DFS)%20+%20Trees%20(BST%20&%20Advanced)/>)
+- [Trees (BST & Advanced)](<./Trees%20(BST%20&%20Advanced)/>)
+- [Heap / Priority Queue](./Heap%20/%20Priority%20Queue/)
+- [Graphs](./Graphs/)
+- [Graphs + Dynamic Programming](./Graphs%20+%20Dynamic%20Programming/)
+
 # 📚 Solved Problems Tracker
 
-## | # | Problem Name | Language | Problem Statement | Solution Code | LeetCode Verification |
+## | LeetCode # | Problem Name | Language | Problem Statement | Solution Code | LeetCode Verification |
 
 ---
 
@@ -32,14 +52,13 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 | 12 | Merge Sorted Array | Java | [Problem](./Merge%20Sorted%20Array/Problem.text) | [Solution](./Merge%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-sorted-array/submissions/2026312915) |
 
-
 | 13 |Squares of a Sorted Array| Java | [Problem](./Squares%20of%20a%20Sorted%20Array/Problem.text) | [Solution](./Squares%20of%20a%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2027140153) |
 
 | 14 |Two Sum II - Input Array Is Sorted| Java | [Problem](./Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Problem.text) | [Solution](./Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Solution.text) | [My Submission Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2028776152) |
 
 | 15 |Container With Most Water| Java | [Problem](./Container%20With%20Most%20Water/Problem.text) | [Solution](./Container%20With%20Most%20Water/Solution.text) | [My Submission Link](https://leetcode.com/problems/container-with-most-water/submissions/2029774245) |
 
-| 16 |3Sum| Java | [Problem](./3Sum/Problem.text) | [Solution](./3Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum/submissions/2030962833) |
+| 16 |3Sum Closest| Java | [Problem](./Arrays%20&%20Two%20Pointers/3Sum%20Closest/Problem.text) | [Solution](./Arrays%20&%20Two%20Pointers/3Sum%20Closest/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum-closest/submissions/2043659792) |
 
 | 17 |Maximum Average Subarray I| Java | [Problem](./Maximum%20Average%20Subarray%20I/Problem.text) | [Solution](./Maximum%20Average%20Subarray%20I/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-average-subarray-i/submissions/2031971033) |
 
@@ -70,4 +89,3 @@ Solving DSA problems for a better understanding of data structures and algorithm
 | 30 | Group Anagrams| Java | [Problem](./Group%20Anagrams/Problem.text) | [Solution](./Group%20Anagrams/Solution.text) | [My Submission Link](https://leetcode.com/problems/group-anagrams/submissions/2041845864) |
 
 | 31 |Maximum Subarray| Java | [Problem](./Maximum%20Subarray/Problem.text) | [Solution](./Maximum%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
-
