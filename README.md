@@ -91,3 +91,5 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 31 |Maximum Subarray| Java | [Problem](./Maximum%20Subarray/Problem.text) | [Solution](./Maximum%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
 
 | 32 |Product of Array Except Self| Java | [Problem](./Arrays%20+%20Prefix%20Sum%20&%20Two%20Pointers/Product%20of%20Array%20Except%20Self/Problem.text) | [Solution](./Arrays%20+%20Prefix%20Sum%20&%20Two%20Pointers/Product%20of%20Array%20Except%20Self/Solution.text) | [My Submission Link](https://leetcode.com/problems/product-of-array-except-self/submissions/2044838867) |
+
+| 33 |Longest Common Prefix| Java | [Problem](./Strings%20+%20Two%20Pointers%20+%20Hashing%20+%20Others/Longest%20Common%20Prefix/Problem.text) | [Solution](./Strings%20+%20Two%20Pointers%20+%20Hashing%20+%20Others/Longest%20Common%20Prefix/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-common-prefix/submissions/2046018494) |
