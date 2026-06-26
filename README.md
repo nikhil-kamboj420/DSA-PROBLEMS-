@@ -2,25 +2,37 @@
 
 Solving DSA problems for a better understanding of data structures and algorithms, aiming to write efficient and robust code to become a production-ready engineer.
 
+# 📊 Repository Stats
+
+- Total Problems Solved: 35
+- Arrays & Hashing: 16
+- Two Pointers: 11
+- Sliding Window: 6
+- Greedy: 1
+- Math & Geometry: 1
+
 # ✅ Start Here (Learning Sequence)
 
 Follow this sequence to build skills step-by-step. Each step below is a clickable folder in this repo:
 
-- [Arrays + Prefix Sum & Two Pointers](./Arrays%20+%20Prefix%20Sum%20&%20Two%20Pointers/)
-- [Arrays & Two Pointers](./Arrays%20&%20Two%20Pointers/)
-- [Strings + Two Pointers](./Strings%20+%20Two%20Pointers/)
-- [Sliding Window + Array Patterns](./Sliding%20Window%20+%20Array%20Patterns/)
-- [Sliding Window + Prefix Sum & Hashing](./Sliding%20Window%20+%20Prefix%20Sum%20&%20Hashing/)
-- [Stack & Monotonic Stack](./Stack%20&%20Monotonic%20Stack/)
-- [Stack & Monotonic Stack + Queue & BFS](./Stack%20&%20Monotonic%20Stack%20+%20Queue%20&%20BFS/)
-- [Queue & BFS + Binary Search](./Queue%20&%20BFS%20+%20Binary%20Search/)
-- [Binary Search + Trees (Traversal & DFS)](<./Binary%20Search%20+%20Trees%20(Traversal%20&%20DFS)/>)
-- [Trees (Traversal & DFS)](<./Trees%20(Traversal%20&%20DFS)/>)
-- [Trees (Traversal & DFS) + Trees (BST & Advanced)](<./Trees%20(Traversal%20&%20DFS)%20+%20Trees%20(BST%20&%20Advanced)/>)
-- [Trees (BST & Advanced)](<./Trees%20(BST%20&%20Advanced)/>)
-- [Heap / Priority Queue](./Heap%20/%20Priority%20Queue/)
+- [Arrays & Hashing](./Arrays%20&%20Hashing/)
+- [Two Pointers](./Two%20Pointers/)
+- [Sliding Window](./Sliding%20Window/)
+- [Stack](./Stack/)
+- [Binary Search](./Binary%20Search/)
+- [Linked List](./Linked%20List/)
+- [Trees](./Trees/)
+- [Tries](./Tries/)
+- [Heap - Priority Queue](./Heap%20-%20Priority%20Queue/)
+- [Backtracking](./Backtracking/)
 - [Graphs](./Graphs/)
-- [Graphs + Dynamic Programming](./Graphs%20+%20Dynamic%20Programming/)
+- [Advanced Graphs](./Advanced%20Graphs/)
+- [1-D Dynamic Programming](./1-D%20Dynamic%20Programming/)
+- [2-D Dynamic Programming ](./2-D%20Dynamic%20Programming/)
+- [Greedy ](./Greedy/)
+- [Intervals ](./Intervals/)
+- [Math & Geometry ](./Math%20&%20Geometry/)
+- [Bit Manipulation ](./Bit%20Manipulation/)
 
 # 📚 Solved Problems Tracker
 
@@ -28,68 +40,168 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 ---
 
-| 1 | Two Sum | Java | [Problem](./TwoSum/Problem.text) | [Solution](./TwoSum/Solution.text) | [My Submission Link](https://leetcode.com/problems/two-sum/submissions/2012617908) |
+## Arrays & Hashing
 
-| 2 | Running Sum of 1d Array | Java | [Problem](./Running%20Sum%20of%201d%20Array/Problem.text) | [Solution](./Running%20Sum%20of%201d%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2013540415) |
+| 1 | Two Sum | Java | [Problem](./Arrays%20&%20Hashing/TwoSum/Problem.text) | [Solution](./Arrays%20&%20Hashing/TwoSum/Solution.text) | [My Submission Link](https://leetcode.com/problems/two-sum/submissions/2012617908) |
 
-| 3 | Find Numbers with Even Number of Digits | Java | [Problem](./Find%20Numbers%20with%20Even%20Number%20of%20Digits/Problem.text) | [Solution](./Find%20Numbers%20with%20Even%20Number%20of%20Digits/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2027182726) |
+| 217 | Contains Duplicate | Java | [Problem](./Arrays%20&%20Hashing/Contains%20Duplicate/Problem.text) | [Solution](./Arrays%20&%20Hashing/Contains%20Duplicate/Solution.text) | [My Submission Link](https://leetcode.com/problems/contains-duplicate/submissions/2018196439) |
 
-| 4 | Remove Element | Java | [Problem](./Remove%20Element/Problem.text) | [Solution](./Remove%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-element/submissions/2015462806) |
+| 49 | Group Anagrams | Java | [Problem](./Arrays%20&%20Hashing/Group%20Anagrams/Problem.text) | [Solution](./Arrays%20&%20Hashing/Group%20Anagrams/Solution.text) | [My Submission Link](https://leetcode.com/problems/group-anagrams/submissions/2041845864) |
 
-| 5 | Richest Customer Wealth | Java | [Problem](./Richest%20Customer%20Wealth/Problem.text) | [Solution](./Richest%20Customer%20Wealth/Solution.text) | [My Submission Link](https://leetcode.com/problems/richest-customer-wealth/submissions/2015532620) |
+| 242 | Valid Anagram | Java | [Problem](./Arrays%20&%20Hashing/Valid%20Anagram/Problem.text) | [Solution](./Arrays%20&%20Hashing/Valid%20Anagram/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-anagram/submissions/2038977575) |
 
-| 6 | Remove Duplicates from Sorted Array | Java | [Problem](./Remove%20Duplicates%20from%20Sorted%20Array/Problem.text) | [Solution](./Remove%20Duplicates%20from%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2016477583) |
+| 347 | Top K Frequent Elements | Java | [Problem](./Arrays%20&%20Hashing/Top%20K%20Frequent%20Elements/Problem.text) | [Solution](./Arrays%20&%20Hashing/Top%20K%20Frequent%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2039806932) |
 
-| 7 | Contains Duplicate | Java | [Problem](./Contains%20Duplicate/Problem.text) | [Solution](./Contains%20Duplicate/Solution.text) | [My Submission Link](https://leetcode.com/problems/contains-duplicate/submissions/2018196439) |
+| 238 | Product of Array Except Self | Java | [Problem](./Arrays%20&%20Hashing/Product%20of%20Array%20Except%20Self/Problem.text) | [Solution](./Arrays%20&%20Hashing/Product%20of%20Array%20Except%20Self/Solution.text) | [My Submission Link](https://leetcode.com/problems/product-of-array-except-self/submissions/2044838867) |
 
-| 8 | Find Pivot Index | Java | [Problem](./Find%20Pivot%20Index/Problem.text) | [Solution](./Find%20Pivot%20Index/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-pivot-index/submissions/2019131950) |
+| 128 | Longest Consecutive Sequence | Java | [Problem](./Arrays%20&%20Hashing/Longest%20Consecutive%20Sequence/Problem.text) | [Solution](./Arrays%20&%20Hashing/Longest%20Consecutive%20Sequence/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-consecutive-sequence/submissions/2041211207) |
 
-| 9 | Valid Palindrome | Java | [Problem](./Valid%20Palindrome/Problem.text) | [Solution](./Valid%20Palindrome/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-palindrome/submissions/2023367640) |
+| 1480 | Running Sum of 1d Array | Java | [Problem](./Arrays%20&%20Hashing/Running%20Sum%20of%201d%20Array/Problem.text) | [Solution](./Arrays%20&%20Hashing/Running%20Sum%20of%201d%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2013540415) |
 
-| 10 | Reverse String | Java | [Problem](./Reverse%20String/Problem.text) | [Solution](./Reverse%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/reverse-string/submissions/2024220802) |
+| 1672 | Richest Customer Wealth | Java | [Problem](./Arrays%20&%20Hashing/Richest%20Customer%20Wealth/Problem.text) | [Solution](./Arrays%20&%20Hashing/Richest%20Customer%20Wealth/Solution.text) | [My Submission Link](https://leetcode.com/problems/richest-customer-wealth/submissions/2015532620) |
 
-| 11 | Move Zeroes | Java | [Problem](./Move%20Zeroes/Problem.text) | [Solution](./Move%20Zeroes/Solution.text) | [My Submission Link](https://leetcode.com/problems/move-zeroes/submissions/2025335706) |
+| 724 | Find Pivot Index | Java | [Problem](./Arrays%20&%20Hashing/Find%20Pivot%20Index/Problem.text) | [Solution](./Arrays%20&%20Hashing/Find%20Pivot%20Index/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-pivot-index/submissions/2019131950) |
 
-| 12 | Merge Sorted Array | Java | [Problem](./Merge%20Sorted%20Array/Problem.text) | [Solution](./Merge%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-sorted-array/submissions/2026312915) |
+| 560 | Subarray Sum Equals K | Java | [Problem](./Arrays%20&%20Hashing/Subarray%20Sum%20Equals%20K/Problem.text) | [Solution](./Arrays%20&%20Hashing/Subarray%20Sum%20Equals%20K/Solution.text) | [My Submission Link](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2036364033) |
 
-| 13 |Squares of a Sorted Array| Java | [Problem](./Squares%20of%20a%20Sorted%20Array/Problem.text) | [Solution](./Squares%20of%20a%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2027140153) |
+| 303 | Range Sum Query - Immutable | Java | [Problem](./Arrays%20&%20Hashing/Range%20Sum%20Query%20-%20Immutable/Problem.text) | [Solution](./Arrays%20&%20Hashing/Range%20Sum%20Query%20-%20Immutable/Solution.text) | [My Submission Link](https://leetcode.com/problems/range-sum-query-immutable/submissions/2036431905) |
 
-| 14 |Two Sum II - Input Array Is Sorted| Java | [Problem](./Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Problem.text) | [Solution](./Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Solution.text) | [My Submission Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2028776152) |
+| 523 | Continuous Subarray Sum | Java | [Problem](./Arrays%20&%20Hashing/Continuous%20Subarray%20Sum/Problem.text) | [Solution](./Arrays%20&%20Hashing/Continuous%20Subarray%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/continuous-subarray-sum/submissions/2037196268) |
 
-| 15 |Container With Most Water| Java | [Problem](./Container%20With%20Most%20Water/Problem.text) | [Solution](./Container%20With%20Most%20Water/Solution.text) | [My Submission Link](https://leetcode.com/problems/container-with-most-water/submissions/2029774245) |
+| 169 | Majority Element | Java | [Problem](./Arrays%20&%20Hashing/Majority%20Element/Problem.text) | [Solution](./Arrays%20&%20Hashing/Majority%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/majority-element/submissions/2037360897) |
 
-| 16 |3Sum Closest| Java | [Problem](./Arrays%20&%20Two%20Pointers/3Sum%20Closest/Problem.text) | [Solution](./Arrays%20&%20Two%20Pointers/3Sum%20Closest/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum-closest/submissions/2043659792) |
+| 14 | Longest Common Prefix | Java | [Problem](./Arrays%20&%20Hashing/Longest%20Common%20Prefix/Problem.text) | [Solution](./Arrays%20&%20Hashing/Longest%20Common%20Prefix/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-common-prefix/submissions/2046018494) |
 
-| 17 |Maximum Average Subarray I| Java | [Problem](./Maximum%20Average%20Subarray%20I/Problem.text) | [Solution](./Maximum%20Average%20Subarray%20I/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-average-subarray-i/submissions/2031971033) |
+| 1929 | Concatenation of Array | Java | [Problem](./Arrays%20&%20Hashing/Concatenation%20of%20Array/Problem.text) | [Solution](./Arrays%20&%20Hashing/Concatenation%20of%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/concatenation-of-array/submissions/2046841469) |
 
-| 18 |Minimum Size Subarray Sum| Java | [Problem](./Minimum%20Size%20Subarray%20Sum/Problem.text) | [Solution](./Minimum%20Size%20Subarray%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2032970587) |
+---
 
-| 19 |Longest Substring Without Repeating Characters| Java | [Problem](./Longest%20Substring%20Without%20Repeating%20Characters/Problem.text) | [Solution](./Longest%20Substring%20Without%20Repeating%20Characters/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2033918890) |
+## Two Pointers
 
-| 20 |Longest Repeating Character Replacement| Java | [Problem](./Longest%20Repeating%20Character%20Replacement/Problem.text) | [Solution](./Longest%20Repeating%20Character%20Replacement/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2034042201) |
+| 167 | Two Sum II - Input Array Is Sorted | Java | [Problem](./Two%20Pointers/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Problem.text) | [Solution](./Two%20Pointers/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Solution.text) | [My Submission Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2028776152) |
 
-| 21 |Maximum Points You Can Obtain from Cards| Java | [Problem](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
+| 11 | Container With Most Water | Java | [Problem](./Two%20Pointers/Container%20With%20Most%20Water/Problem.text) | [Solution](./Two%20Pointers/Container%20With%20Most%20Water/Solution.text) | [My Submission Link](https://leetcode.com/problems/container-with-most-water/submissions/2029774245) |
 
-| 22 |Subarray Sum Equals K| Java | [Problem](./Subarray%20Sum%20Equals%20K/Problem.text) | [Solution](./Subarray%20Sum%20Equals%20K/Solution.text) | [My Submission Link](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2036364033) |
+| 15 | 3Sum | Java | [Problem](./Two%20Pointers/3Sum/Problem.text) | [Solution](./Two%20Pointers/3Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum/submissions/) |
 
-| 23 |Range Sum Query - Immutable| Java | [Problem](./Range%20Sum%20Query%20-%20Immutable/Problem.text) | [Solution](./Range%20Sum%20Query%20-%20Immutable/Solution.text) | [My Submission Link](https://leetcode.com/problems/range-sum-query-immutable/submissions/2036431905) |
+| 16 | 3Sum Closest | Java | [Problem](./Two%20Pointers/3Sum%20Closest/Problem.text) | [Solution](./Two%20Pointers/3Sum%20Closest/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum-closest/submissions/2043659792) |
 
-| 24 |Continuous Subarray Sum| Java | [Problem](./Continuous%20Subarray%20Sum/Problem.text) | [Solution](./Continuous%20Subarray%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/continuous-subarray-sum/submissions/2037196268) |
+| 125 | Valid Palindrome | Java | [Problem](./Two%20Pointers/Valid%20Palindrome/Problem.text) | [Solution](./Two%20Pointers/Valid%20Palindrome/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-palindrome/submissions/2023367640) |
 
-| 25 |Majority Element| Java | [Problem](./Majority%20Element/Problem.text) | [Solution](./Majority%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/majority-element/submissions/2037360897) |
+| 344 | Reverse String | Java | [Problem](./Two%20Pointers/Reverse%20String/Problem.text) | [Solution](./Two%20Pointers/Reverse%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/reverse-string/submissions/2024220802) |
 
-| 26 |Valid Anagram| Java | [Problem](./Valid%20Anagram/Problem.text) | [Solution](./Valid%20Anagram/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-anagram/submissions/2038977575) |
+| 283 | Move Zeroes | Java | [Problem](./Two%20Pointers/Move%20Zeroes/Problem.text) | [Solution](./Two%20Pointers/Move%20Zeroes/Solution.text) | [My Submission Link](https://leetcode.com/problems/move-zeroes/submissions/2025335706) |
 
-| 27 |Top K Frequent Elements| Java | [Problem](./Top%20K%20Frequent%20Elements/Problem.text) | [Solution](./Top%20K%20Frequent%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2039806932) |
+| 88 | Merge Sorted Array | Java | [Problem](./Two%20Pointers/Merge%20Sorted%20Array/Problem.text) | [Solution](./Two%20Pointers/Merge%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-sorted-array/submissions/2026312915) |
 
-| 28 |Longest Consecutive Sequence| Java | [Problem](./Longest%20Consecutive%20Sequence/Problem.text) | [Solution](./Longest%20Consecutive%20Sequence/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-consecutive-sequence/submissions/2041211207) |
+| 977 | Squares of a Sorted Array | Java | [Problem](./Two%20Pointers/Squares%20of%20a%20Sorted%20Array/Problem.text) | [Solution](./Two%20Pointers/Squares%20of%20a%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2027140153) |
 
-| 29 |Best Time to Buy and Sell Stock| Java | [Problem](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041204519) |
+| 27 | Remove Element | Java | [Problem](./Two%20Pointers/Remove%20Element/Problem.text) | [Solution](./Two%20Pointers/Remove%20Element/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-element/submissions/2015462806) |
 
-| 30 | Group Anagrams| Java | [Problem](./Group%20Anagrams/Problem.text) | [Solution](./Group%20Anagrams/Solution.text) | [My Submission Link](https://leetcode.com/problems/group-anagrams/submissions/2041845864) |
+| 26 | Remove Duplicates from Sorted Array | Java | [Problem](./Two%20Pointers/Remove%20Duplicates%20from%20Sorted%20Array/Problem.text) | [Solution](./Two%20Pointers/Remove%20Duplicates%20from%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2016477583) |
 
-| 31 |Maximum Subarray| Java | [Problem](./Maximum%20Subarray/Problem.text) | [Solution](./Maximum%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
+---
 
-| 32 |Product of Array Except Self| Java | [Problem](./Arrays%20+%20Prefix%20Sum%20&%20Two%20Pointers/Product%20of%20Array%20Except%20Self/Problem.text) | [Solution](./Arrays%20+%20Prefix%20Sum%20&%20Two%20Pointers/Product%20of%20Array%20Except%20Self/Solution.text) | [My Submission Link](https://leetcode.com/problems/product-of-array-except-self/submissions/2044838867) |
+## Sliding Window
 
-| 33 |Longest Common Prefix| Java | [Problem](./Strings%20+%20Two%20Pointers%20+%20Hashing%20+%20Others/Longest%20Common%20Prefix/Problem.text) | [Solution](./Strings%20+%20Two%20Pointers%20+%20Hashing%20+%20Others/Longest%20Common%20Prefix/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-common-prefix/submissions/2046018494) |
+| 643 | Maximum Average Subarray I | Java | [Problem](./Sliding%20Window/Maximum%20Average%20Subarray%20I/Problem.text) | [Solution](./Sliding%20Window/Maximum%20Average%20Subarray%20I/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-average-subarray-i/submissions/2031971033) |
+
+| 209 | Minimum Size Subarray Sum | Java | [Problem](./Sliding%20Window/Minimum%20Size%20Subarray%20Sum/Problem.text) | [Solution](./Sliding%20Window/Minimum%20Size%20Subarray%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2032970587) |
+
+| 3 | Longest Substring Without Repeating Characters | Java | [Problem](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters/Problem.text) | [Solution](./Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2033918890) |
+
+| 424 | Longest Repeating Character Replacement | Java | [Problem](./Sliding%20Window/Longest%20Repeating%20Character%20Replacement/Problem.text) | [Solution](./Sliding%20Window/Longest%20Repeating%20Character%20Replacement/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2034042201) |
+
+| 1423 | Maximum Points You Can Obtain from Cards | Java | [Problem](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
+
+| 121 | Best Time to Buy and Sell Stock | Java | [Problem](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041204519) |
+
+---
+
+## Stack
+
+*No problems added yet*
+
+---
+
+## Binary Search
+
+*No problems added yet*
+
+---
+
+## Linked List
+
+*No problems added yet*
+
+---
+
+## Trees
+
+*No problems added yet*
+
+---
+
+## Tries
+
+*No problems added yet*
+
+---
+
+## Heap - Priority Queue
+
+*No problems added yet*
+
+---
+
+## Backtracking
+
+*No problems added yet*
+
+---
+
+## Graphs
+
+*No problems added yet*
+
+---
+
+## Advanced Graphs
+
+*No problems added yet*
+
+---
+
+## 1-D Dynamic Programming
+
+*No problems added yet*
+
+---
+
+## 2-D Dynamic Programming
+
+*No problems added yet*
+
+---
+
+## Greedy
+
+| 53 | Maximum Subarray | Java | [Problem](./Greedy/Maximum%20Subarray/Problem.text) | [Solution](./Greedy/Maximum%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
+
+---
+
+## Intervals
+
+*No problems added yet*
+
+---
+
+## Math & Geometry
+
+| 1295 | Find Numbers with Even Number of Digits | Java | [Problem](./Math%20&%20Geometry/Find%20Numbers%20with%20Even%20Number%20of%20Digits/Problem.text) | [Solution](./Math%20&%20Geometry/Find%20Numbers%20with%20Even%20Number%20of%20Digits/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2027182726) |
+
+---
+
+## Bit Manipulation
+
+*No problems added yet*
