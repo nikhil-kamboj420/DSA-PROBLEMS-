@@ -7,8 +7,8 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Total Problems Solved: 35
 - Arrays & Hashing: 16
 - Two Pointers: 11
-- Sliding Window: 6
-- Greedy: 1
+- Sliding Window: 5
+- Greedy: 2
 - Math & Geometry: 1
 
 # ✅ Start Here (Learning Sequence)
@@ -114,7 +114,6 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 1423 | Maximum Points You Can Obtain from Cards | Java | [Problem](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
 
-| 121 | Best Time to Buy and Sell Stock | Java | [Problem](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041204519) |
 
 ---
 
@@ -185,6 +184,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 ---
 
 ## Greedy
+
+| 121 | Best Time to Buy and Sell Stock | Java | [Problem](./Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041204519) |
 
 | 53 | Maximum Subarray | Java | [Problem](./Greedy/Maximum%20Subarray/Problem.text) | [Solution](./Greedy/Maximum%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
 
