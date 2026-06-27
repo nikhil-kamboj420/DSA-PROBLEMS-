@@ -4,8 +4,8 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 35
-- Arrays & Hashing: 16
+- Total Problems Solved: 36
+- Arrays & Hashing: 17
 - Two Pointers: 11
 - Sliding Window: 5
 - Greedy: 2
@@ -73,6 +73,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 14 | Longest Common Prefix | Java | [Problem](./Arrays%20&%20Hashing/Longest%20Common%20Prefix/Problem.text) | [Solution](./Arrays%20&%20Hashing/Longest%20Common%20Prefix/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-common-prefix/submissions/2046018494) |
 
 | 1929 | Concatenation of Array | Java | [Problem](./Arrays%20&%20Hashing/Concatenation%20of%20Array/Problem.text) | [Solution](./Arrays%20&%20Hashing/Concatenation%20of%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/concatenation-of-array/submissions/2046841469) |
+
+| 705 | Design HashSet | Java | [Problem](./Arrays%20&%20Hashing/Design%20HashSet/Problem.text) | [Solution](./Arrays%20&%20Hashing/Design%20HashSet/Solution.text) | [My Submission Link](https://leetcode.com/problems/design-hashset/submissions/2047777166) |
 
 ---
 
