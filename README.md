@@ -76,6 +76,10 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 705 | Design HashSet | Java | [Problem](./Arrays%20&%20Hashing/Design%20HashSet/Problem.text) | [Solution](./Arrays%20&%20Hashing/Design%20HashSet/Solution.text) | [My Submission Link](https://leetcode.com/problems/design-hashset/submissions/2047777166) |
 
+| 706 | Design HashMap | Java | [Problem](./Arrays%20&%20Hashing/Design%20HashMap/Problem.text) | [Solution](./Arrays%20&%20Hashing/Design%20HashMap/Solution.text) | [My Submission Link](https://leetcode.com/problems/design-hashmap/submissions/2048895756) |
+
+| 75 | Sort Colors | Java | [Problem](./Arrays%20&%20Hashing/Sort%20Colors/Problem.text) | [Solution](./Arrays%20&%20Hashing/Sort%20Colors/Solution.text) | [My Submission Link](https://leetcode.com/problems/sort-colors/submissions/2050329101) |
+
 ---
 
 ## Two Pointers
