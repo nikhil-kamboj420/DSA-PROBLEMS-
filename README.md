@@ -80,6 +80,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 75 | Sort Colors | Java | [Problem](./Arrays%20&%20Hashing/Sort%20Colors/Problem.text) | [Solution](./Arrays%20&%20Hashing/Sort%20Colors/Solution.text) | [My Submission Link](https://leetcode.com/problems/sort-colors/submissions/2050329101) |
 
+| 36 | Valid Sudoku | Java | [Problem](./Arrays%20&%20Hashing/Valid%20Sudoku/Problem.text) | [Solution](./Arrays%20&%20Hashing/Valid%20Sudoku/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-sudoku/submissions/2051472021) |
+
 ---
 
 ## Two Pointers
