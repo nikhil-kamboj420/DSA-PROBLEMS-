@@ -82,6 +82,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 36 | Valid Sudoku | Java | [Problem](./Arrays%20&%20Hashing/Valid%20Sudoku/Problem.text) | [Solution](./Arrays%20&%20Hashing/Valid%20Sudoku/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-sudoku/submissions/2051472021) |
 
+| 229 | Majority Element II | Java | [Problem](./Arrays%20&%20Hashing/Majority%20Element%20II/Problem.text) | [Solution](./Arrays%20&%20Hashing/Majority%20Element%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/majority-element-ii/submissions/2052476472) |
+
 ---
 
 ## Two Pointers
@@ -196,6 +198,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 121 | Best Time to Buy and Sell Stock | Java | [Problem](./Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2041204519) |
 
 | 53 | Maximum Subarray | Java | [Problem](./Greedy/Maximum%20Subarray/Problem.text) | [Solution](./Greedy/Maximum%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
+
+| 122 | Best Time to Buy and Sell Stock II | Java | [Problem](./Greedy/%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Problem.text) | [Solution](./Greedy/%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-subarray/submissions/2041861384) |
 
 ---
 
