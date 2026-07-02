@@ -84,6 +84,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 229 | Majority Element II | Java | [Problem](./Arrays%20&%20Hashing/Majority%20Element%20II/Problem.text) | [Solution](./Arrays%20&%20Hashing/Majority%20Element%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/majority-element-ii/submissions/2052476472) |
 
+| 41 | First Missing Positive | Java | [Problem](./Arrays%20&%20Hashing/First%20Missing%20Positive/Problem.text) | [Solution](./Arrays%20&%20Hashing/First%20Missing%20Positive/Solution.text) | [My Submission Link](https://leetcode.com/problems/first-missing-positive/submissions/2053680636) |
+
 ---
 
 ## Two Pointers
