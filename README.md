@@ -112,6 +112,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 26 | Remove Duplicates from Sorted Array | Java | [Problem](./Two%20Pointers/Remove%20Duplicates%20from%20Sorted%20Array/Problem.text) | [Solution](./Two%20Pointers/Remove%20Duplicates%20from%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2016477583) |
 
+| 680 | Valid Palindrome II | Java | [Problem](./Two%20Pointers/Valid%20Palindrome%20II/Problem.text) | [Solution](./Two%20Pointers/Valid%20Palindrome%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-palindrome-ii/submissions/2053697988) |
+
 ---
 
 ## Sliding Window
