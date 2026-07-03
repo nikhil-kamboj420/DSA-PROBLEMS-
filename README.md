@@ -114,6 +114,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 680 | Valid Palindrome II | Java | [Problem](./Two%20Pointers/Valid%20Palindrome%20II/Problem.text) | [Solution](./Two%20Pointers/Valid%20Palindrome%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-palindrome-ii/submissions/2053697988) |
 
+| 1768 | Merge Strings Alternately | Java | [Problem](./Two%20Pointers/Merge%20Strings%20Alternately/Problem.text) | [Solution](./Two%20Pointers/Merge%20Strings%20Alternately/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-strings-alternately/submissions/2054956176) |
+
 ---
 
 ## Sliding Window
