@@ -116,6 +116,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 1768 | Merge Strings Alternately | Java | [Problem](./Two%20Pointers/Merge%20Strings%20Alternately/Problem.text) | [Solution](./Two%20Pointers/Merge%20Strings%20Alternately/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-strings-alternately/submissions/2054956176) |
 
+| 18 | 4Sum | Java | [Problem](./Two%20Pointers/4Sum/Problem.text) | [Solution](./Two%20Pointers/4Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/4sum/submissions/2054989500) |
+
 ---
 
 ## Sliding Window
