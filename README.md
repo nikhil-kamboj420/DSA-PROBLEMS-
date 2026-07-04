@@ -118,6 +118,10 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 18 | 4Sum | Java | [Problem](./Two%20Pointers/4Sum/Problem.text) | [Solution](./Two%20Pointers/4Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/4sum/submissions/2054989500) |
 
+| 1189 | Rotate Array | Java | [Problem](./Two%20Pointers/Rotate%20Array/Problem.text) | [Solution](./Two%20Pointers/Rotate%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/rotate-array/submissions/2055624915) |
+
+| 881 | Boats to Save People | Java | [Problem](./Two%20Pointers/Boats%20to%20Save%20People/Problem.text) | [Solution](./Two%20Pointers/Boats%20to%20Save%20People/Solution.text) | [My Submission Link](https://leetcode.com/problems/boats-to-save-people/submissions/2055654785) |
+
 ---
 
 ## Sliding Window
