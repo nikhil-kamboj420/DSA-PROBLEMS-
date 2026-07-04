@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 36
-- Arrays & Hashing: 17
-- Two Pointers: 11
+- Total Problems Solved: 48
+- Arrays & Hashing: 22
+- Two Pointers: 17
 - Sliding Window: 5
-- Greedy: 2
+- Greedy: 3
 - Math & Geometry: 1
 
 # ✅ Start Here (Learning Sequence)
@@ -94,7 +94,7 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 11 | Container With Most Water | Java | [Problem](./Two%20Pointers/Container%20With%20Most%20Water/Problem.text) | [Solution](./Two%20Pointers/Container%20With%20Most%20Water/Solution.text) | [My Submission Link](https://leetcode.com/problems/container-with-most-water/submissions/2029774245) |
 
-| 15 | 3Sum | Java | [Problem](./Two%20Pointers/3Sum/Problem.text) | [Solution](./Two%20Pointers/3Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum/submissions/) |
+| 15 | 3Sum | Java | [Problem](./Two%20Pointers/3Sum/Problem.text) | [Solution](./Two%20Pointers/3Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum/submissions/2030962833) |
 
 | 16 | 3Sum Closest | Java | [Problem](./Two%20Pointers/3Sum%20Closest/Problem.text) | [Solution](./Two%20Pointers/3Sum%20Closest/Solution.text) | [My Submission Link](https://leetcode.com/problems/3sum-closest/submissions/2043659792) |
 
@@ -122,6 +122,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 881 | Boats to Save People | Java | [Problem](./Two%20Pointers/Boats%20to%20Save%20People/Problem.text) | [Solution](./Two%20Pointers/Boats%20to%20Save%20People/Solution.text) | [My Submission Link](https://leetcode.com/problems/boats-to-save-people/submissions/2055654785) |
 
+| 42 | Trapping Rain Water | Java | [Problem](./Two%20Pointers/Trapping%20Rain%20Water/Problem.text) | [Solution](./Two%20Pointers/Trapping%20Rain%20Water/Solution.text) | [My Submission Link](https://leetcode.com/problems/trapping-rain-water/submissions/2055696643) |
+
 ---
 
 ## Sliding Window
@@ -136,72 +138,71 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 1423 | Maximum Points You Can Obtain from Cards | Java | [Problem](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
 
-
 ---
 
 ## Stack
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Binary Search
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Linked List
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Trees
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Tries
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Heap - Priority Queue
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Backtracking
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Graphs
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## Advanced Graphs
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## 1-D Dynamic Programming
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
 ## 2-D Dynamic Programming
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
@@ -217,7 +218,7 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 ## Intervals
 
-*No problems added yet*
+_No problems added yet_
 
 ---
 
@@ -229,4 +230,4 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 ## Bit Manipulation
 
-*No problems added yet*
+_No problems added yet_
