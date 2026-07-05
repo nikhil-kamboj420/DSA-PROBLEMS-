@@ -4,10 +4,10 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 51
+- Total Problems Solved: 52
 - Arrays & Hashing: 22
 - Two Pointers: 17
-- Sliding Window: 8
+- Sliding Window: 9
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -143,6 +143,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 219 | Contains Duplicate II | Java | [Problem](./Sliding%20Window/Contains%20Duplicate%20II/Problem.text) | [Solution](./Sliding%20Window/Contains%20Duplicate%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/contains-duplicate-ii/submissions/2056994855) |
 
 | 567 | Permutation in String | Java | [Problem](./Sliding%20Window/Permutation%20in%20String/Problem.text) | [Solution](./Sliding%20Window/Permutation%20in%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/permutation-in-string/submissions/2057196392) |
+
+| 658 | Find K Closest Elements | Java | [Problem](./Sliding%20Window/Find%20K%20Closest%20Elements/Problem.text) | [Solution](./Sliding%20Window/Find%20K%20Closest%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-k-closest-elements/submissions/2057255504) |
 
 ---
 
