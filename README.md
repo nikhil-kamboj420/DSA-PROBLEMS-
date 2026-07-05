@@ -4,10 +4,10 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 49
+- Total Problems Solved: 50
 - Arrays & Hashing: 22
 - Two Pointers: 17
-- Sliding Window: 6
+- Sliding Window: 7
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -139,6 +139,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 1423 | Maximum Points You Can Obtain from Cards | Java | [Problem](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Problem.text) | [Solution](./Sliding%20Window/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2035437425) |
 
 | 121 | Best Time to Buy and Sell Stock | Java | [Problem](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Problem.text) | [Solution](./Sliding%20Window/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2056884178) |
+
+| 219 | Contains Duplicate II | Java | [Problem](./Sliding%20Window/Contains%20Duplicate%20II/Problem.text) | [Solution](./Sliding%20Window/Contains%20Duplicate%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/contains-duplicate-ii/submissions/2056994855) |
 
 ---
 
