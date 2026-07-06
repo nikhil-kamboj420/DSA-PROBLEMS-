@@ -146,6 +146,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 658 | Find K Closest Elements | Java | [Problem](./Sliding%20Window/Find%20K%20Closest%20Elements/Problem.text) | [Solution](./Sliding%20Window/Find%20K%20Closest%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-k-closest-elements/submissions/2057255504) |
 
+| 76 | Minimum Window Substring | Java | [Problem](./Sliding%20Window/Minimum%20Window%20Substring/Problem.text) | [Solution](./Sliding%20Window/Minimum%20Window%20Substring/Solution.text) | [My Submission Link](https://leetcode.com/problems/minimum-window-substring/submissions/2058180132) |
+
 ---
 
 ## Stack

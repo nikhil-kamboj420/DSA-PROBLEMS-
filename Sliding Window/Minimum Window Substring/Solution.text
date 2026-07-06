@@ -1,0 +1,47 @@
+class Solution {
+    public String minWindow(String s, String t) {
+        if (s.length() < t.length())
+            return "";
+
+        int[] tMap = new int[128];
+        int requiredUniqueChars = 0;
+        for (char c : t.toCharArray()) {
+            if (tMap[c] == 0)
+                requiredUniqueChars++;
+            tMap[c]++;
+        }
+
+        int[] sMap = new int[128];
+        int left = 0;
+        int formedUniqueChars = 0;
+
+        int minLength = Integer.MAX_VALUE;
+        int minLeft = 0;
+
+        for (int right = 0; right < s.length(); right++) {
+            char rChar = s.charAt(right);
+            sMap[rChar]++;
+
+            if (tMap[rChar] > 0 && sMap[rChar] == tMap[rChar]) {
+                formedUniqueChars++;
+            }
+
+            while (formedUniqueChars == requiredUniqueChars) {
+                if (right - left + 1 < minLength) {
+                    minLength = right - left + 1;
+                    minLeft = left;
+                }
+
+                char lChar = s.charAt(left);
+                sMap[lChar]--;
+
+                if (tMap[lChar] > 0 && sMap[lChar] < tMap[lChar]) {
+                    formedUniqueChars--;
+                }
+                left++;
+            }
+        }
+
+        return minLength == Integer.MAX_VALUE ? "" : s.substring(minLeft, minLeft + minLength);
+    }
+}
