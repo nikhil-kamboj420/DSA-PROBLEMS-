@@ -1,0 +1,28 @@
+import java.util.*;
+
+class Solution {
+    public int calPoints(String[] operations) {
+        Stack<Integer> scoreStack = new Stack<>();
+        for (String op : operations) {
+            if (op.equals("+")) {
+                int topScore = scoreStack.pop();
+                int prevScore = scoreStack.peek();
+                int ScoreSum = topScore + prevScore;
+                scoreStack.push(topScore);
+                scoreStack.push(ScoreSum);
+            } else if (op.equals("D")) {
+                int doubleScore = scoreStack.peek() * 2;
+                scoreStack.push(doubleScore);
+            } else if (op.equals("C")) {
+                scoreStack.pop();
+            } else {
+                scoreStack.push(Integer.parseInt(op));
+            }
+        }
+        int totalSum = 0;
+        while (!scoreStack.isEmpty()) {
+            totalSum += scoreStack.pop();
+        }
+        return totalSum;
+    }
+}
