@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 55
+- Total Problems Solved: 56
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
-- Stack: 2
+- Stack: 3
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -156,6 +156,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 682 | Baseball Game | Java | [Problem](./Stack/Baseball%20Game/Problem.text) | [Solution](./Stack/Baseball%20Game/Solution.text) | [My Submission Link](https://leetcode.com/problems/baseball-game/submissions/2059368121) |
 
 | 20 | Valid Parentheses | Java | [Problem](./Stack/Valid%20Parentheses/Problem.text) | [Solution](./Stack/Valid%20Parentheses/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-parentheses/submissions/2059636988) |
+
+| 20 | Min Stack | Java | [Problem](./Stack/Min%20Stack/Problem.text) | [Solution](./Stack/Min%20Stack/Solution.text) | [My Submission Link](https://leetcode.com/problems/min-stack/submissions/2059689953) |
 
 ---
 
