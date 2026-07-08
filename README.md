@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 57
+- Total Problems Solved: 58
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
-- Stack: 4
+- Stack: 5
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -160,6 +160,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 155 | Min Stack | Java | [Problem](./Stack/Min%20Stack/Problem.text) | [Solution](./Stack/Min%20Stack/Solution.text) | [My Submission Link](https://leetcode.com/problems/min-stack/submissions/2059689953) |
 
 | 150 | Evaluate Reverse Polish Notation | Java | [Problem](./Stack/Evaluate%20Reverse%20Polish%20Notation/Problem.text) | [Solution](./Stack/Evaluate%20Reverse%20Polish%20Notation/Solution.text) | [My Submission Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2060417456) |
+
+| 735 | Asteroid Collision | Java | [Problem](./Stack/Asteroid%20Collision/Problem.text) | [Solution](./Stack/Asteroid%20Collision/Solution.text) | [My Submission Link](https://leetcode.com/problems/asteroid-collision/submissions/2060482231) |
 
 ---
 
