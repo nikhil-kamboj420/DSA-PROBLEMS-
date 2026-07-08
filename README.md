@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 56
+- Total Problems Solved: 57
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
-- Stack: 3
+- Stack: 4
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -157,7 +157,9 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 20 | Valid Parentheses | Java | [Problem](./Stack/Valid%20Parentheses/Problem.text) | [Solution](./Stack/Valid%20Parentheses/Solution.text) | [My Submission Link](https://leetcode.com/problems/valid-parentheses/submissions/2059636988) |
 
-| 20 | Min Stack | Java | [Problem](./Stack/Min%20Stack/Problem.text) | [Solution](./Stack/Min%20Stack/Solution.text) | [My Submission Link](https://leetcode.com/problems/min-stack/submissions/2059689953) |
+| 155 | Min Stack | Java | [Problem](./Stack/Min%20Stack/Problem.text) | [Solution](./Stack/Min%20Stack/Solution.text) | [My Submission Link](https://leetcode.com/problems/min-stack/submissions/2059689953) |
+
+| 150 | Evaluate Reverse Polish Notation | Java | [Problem](./Stack/Evaluate%20Reverse%20Polish%20Notation/Problem.text) | [Solution](./Stack/Evaluate%20Reverse%20Polish%20Notation/Solution.text) | [My Submission Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2060417456) |
 
 ---
 
