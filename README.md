@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 60
+- Total Problems Solved: 61
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
-- Stack: 7
+- Stack: 8
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -166,6 +166,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 739 | Daily Temperatures | Java | [Problem](./Stack/Daily%20Temperatures/Problem.text) | [Solution](./Stack/Daily%20Temperatures/Solution.text) | [My Submission Link](https://leetcode.com/problems/daily-temperatures/submissions/2060645540) |
 
 | 901 | Online Stock Span | Java | [Problem](./Stack/Online%20Stock%20Span/Problem.text) | [Solution](./Stack/Online%20Stock%20Span/Solution.text) | [My Submission Link](https://leetcode.com/problems/online-stock-span/submissions/2060855597) |
+
+| 853 | Car Fleet | Java | [Problem](./Stack/Car%20Fleet/Problem.text) | [Solution](./Stack/Car%20Fleet/Solution.text) | [My Submission Link](https://leetcode.com/problems/car-fleet/submissions/2061698040) |
 
 ---
 
