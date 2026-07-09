@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 62
+- Total Problems Solved: 63
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
-- Stack: 9
+- Stack: 10
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -170,6 +170,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 853 | Car Fleet | Java | [Problem](./Stack/Car%20Fleet/Problem.text) | [Solution](./Stack/Car%20Fleet/Solution.text) | [My Submission Link](https://leetcode.com/problems/car-fleet/submissions/2061698040) |
 
 | 71 | Simplify Path | Java | [Problem](./Stack/Simplify%20Path/Problem.text) | [Solution](./Stack/Simplify%20Path/Solution.text) | [My Submission Link](https://leetcode.com/problems/simplify-path/submissions/2061884553) |
+
+| 394 | Decode String | Java | [Problem](./Stack/Decode%20String/Problem.text) | [Solution](./Stack/Decode%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/decode-string/submissions/2062094896) |
 
 ---
 
