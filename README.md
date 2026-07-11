@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 64
+- Total Problems Solved: 65
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
-- Stack: 11
+- Stack: 12
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -174,6 +174,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 394 | Decode String | Java | [Problem](./Stack/Decode%20String/Problem.text) | [Solution](./Stack/Decode%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/decode-string/submissions/2062094896) |
 
 | 895 | Maximum Frequency Stack | Java | [Problem](./Stack/Maximum%20Frequency%20Stack/Problem.text) | [Solution](./Stack/Maximum%20Frequency%20Stack/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-frequency-stack/submissions/2062937217) |
+
+| 225 | Implement Stack using Queues | Java | [Problem](./Stack/%20Implement%20Stack%20using%20Queues/Problem.text) | [Solution](./Stack/%20Implement%20Stack%20using%20Queues/Solution.text) | [My Submission Link](https://leetcode.com/problems/implement-stack-using-queues/submissions/2064132042) |
 
 ---
 
