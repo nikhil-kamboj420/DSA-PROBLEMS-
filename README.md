@@ -4,11 +4,11 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 66
+- Total Problems Solved: 67
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
-- Stack: 13
+- Stack: 14
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -178,6 +178,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 225 | Implement Stack using Queues | Java | [Problem](./Stack/%20Implement%20Stack%20using%20Queues/Problem.text) | [Solution](./Stack/%20Implement%20Stack%20using%20Queues/Solution.text) | [My Submission Link](https://leetcode.com/problems/implement-stack-using-queues/submissions/2064132042) |
 
 | 232 | Implement Queue using Stacks | Java | [Problem](./Stack/Implement%20Queue%20using%20Stacks/Problem.text) | [Solution](./Stack/Implement%20Queue%20using%20Stacks/Solution.text) | [My Submission Link](https://leetcode.com/problems/implement-queue-using-stacks/submissions/2064161972) |
+
+| 496 | Next Greater Element I | Java | [Problem](./Stack/Next%20Greater%20Element%20I/Problem.text) | [Solution](./Stack/Next%20Greater%20Element%20I/Solution.text) | [My Submission Link](https://leetcode.com/problems/next-greater-element-i/submissions/2065008953) |
 
 ---
 
