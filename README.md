@@ -4,11 +4,12 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 68
+- Total Problems Solved: 69
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
+- Binary Search: 1
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -187,7 +188,7 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 ## Binary Search
 
-_No problems added yet_
+| 704 | Binary Search | Java | [Problem](./Binary%20Search/Binary%20Search/Problem.text) | [Solution](./Binary%20Search/Binary%20Search/Solution.text) | [My Submission Link](https://leetcode.com/problems/binary-search/submissions/2065235303) |
 
 ---
 
