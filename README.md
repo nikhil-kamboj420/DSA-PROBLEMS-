@@ -4,12 +4,12 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 71
+- Total Problems Solved: 72
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
-- Binary Search: 3
+- Binary Search: 4
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -193,6 +193,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 35 | Search Insert Position | Java | [Problem](./Binary%20Search/Search%20Insert%20Position/Problem.text) | [Solution](./Binary%20Search/Search%20Insert%20Position/Solution.text) | [My Submission Link](https://leetcode.com/problems/search-insert-position/submissions/2065325982) |
 
 | 374 | Guess Number Higher or Lower | Java | [Problem](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/Problem.text) | [Solution](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/Solution.text) | [My Submission Link](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/2066169194) |
+
+| 69 | Sqrt(x) | Java | [Problem](./Binary%20Search/Sqrt(x)/Problem.text) | [Solution](./Binary%20Search/Sqrt(x)/Solution.text) | [My Submission Link](https://leetcode.com/problems/sqrtx/submissions/2066386667) |
 
 ---
 
