@@ -4,12 +4,12 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 75
+- Total Problems Solved: 76
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
-- Binary Search: 7
+- Binary Search: 8
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -201,6 +201,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 875 | Koko Eating Bananas | Java | [Problem](./Binary%20Search/Koko%20Eating%20Bananas/Problem.text) | [Solution](./Binary%20Search/Koko%20Eating%20Bananas/Solution.text) | [My Submission Link](https://leetcode.com/problems/koko-eating-bananas/submissions/2067663739) |
 
 | 1011 | Capacity To Ship Packages Within D Days | Java | [Problem](./Binary%20Search/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/Problem.text) | [Solution](./Binary%20Search/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/Solution.text) | [My Submission Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2068890842) |
+
+| 153 | Find Minimum in Rotated Sorted Array | Java | [Problem](./Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Problem.text) | [Solution](./Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2070203784) |
 
 ---
 
