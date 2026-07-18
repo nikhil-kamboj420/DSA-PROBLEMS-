@@ -4,12 +4,12 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 77
+- Total Problems Solved: 78
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
-- Binary Search: 9
+- Binary Search: 10
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -205,6 +205,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 153 | Find Minimum in Rotated Sorted Array | Java | [Problem](./Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Problem.text) | [Solution](./Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2070203784) |
 
 | 33 | Search in Rotated Sorted Array | Java | [Problem](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/Problem.text) | [Solution](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2071310465) |
+
+| 81 | Search in Rotated Sorted Array II | Java | [Problem](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Problem.text) | [Solution](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2072295102) |
 
 ---
 
