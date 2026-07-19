@@ -4,12 +4,12 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 78
+- Total Problems Solved: 79
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
-- Binary Search: 10
+- Binary Search: 11
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -207,6 +207,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 33 | Search in Rotated Sorted Array | Java | [Problem](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/Problem.text) | [Solution](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2071310465) |
 
 | 81 | Search in Rotated Sorted Array II | Java | [Problem](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Problem.text) | [Solution](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2072295102) |
+
+| 981 | Time Based Key-Value Store | Java | [Problem](./Binary%20Search/Time%20Based%20Key-Value%20Store/Problem.text) | [Solution](./Binary%20Search/Time%20Based%20Key-Value%20Store/Solution.text) | [My Submission Link](https://leetcode.com/problems/time-based-key-value-store/submissions/2073683003) |
 
 ---
 
