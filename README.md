@@ -4,12 +4,12 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 79
+- Total Problems Solved: 80
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
-- Binary Search: 11
+- Binary Search: 12
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -209,6 +209,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 81 | Search in Rotated Sorted Array II | Java | [Problem](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Problem.text) | [Solution](./Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2072295102) |
 
 | 981 | Time Based Key-Value Store | Java | [Problem](./Binary%20Search/Time%20Based%20Key-Value%20Store/Problem.text) | [Solution](./Binary%20Search/Time%20Based%20Key-Value%20Store/Solution.text) | [My Submission Link](https://leetcode.com/problems/time-based-key-value-store/submissions/2073683003) |
+
+| 410 | Split Array Largest Sum | Java | [Problem](./Binary%20Search/Split%20Array%20Largest%20Sum/Problem.text) | [Solution](./Binary%20Search/Split%20Array%20Largest%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/split-array-largest-sum/submissions/2074882949) |
 
 ---
 
