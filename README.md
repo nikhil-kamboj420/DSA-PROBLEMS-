@@ -4,13 +4,13 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 82
+- Total Problems Solved: 83
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
-- Linked List: 2
+- Linked List: 3
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -222,6 +222,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 206 | Reverse Linked List | Java | [Problem](./Linked%20List/Reverse%20Linked%20List/Problem.text) | [Solution](./Linked%20List/Reverse%20Linked%20List/Solution.text) | [My Submission Link](https://leetcode.com/problems/reverse-linked-list/submissions/2076126497) |
 
 | 21 | Merge Two Sorted Lists | Java | [Problem](./Linked%20List/Merge%20Two%20Sorted%20Lists/Problem.text) | [Solution](./Linked%20List/Merge%20Two%20Sorted%20Lists/Solution.text) | [My Submission Link](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2077532901) |
+
+| 141 | Linked List Cycle | Java | [Problem](./Linked%20List/Linked%20List%20Cycle/Problem.text) | [Solution](./Linked%20List/Linked%20List%20Cycle/Solution.text) | [My Submission Link](https://leetcode.com/problems/linked-list-cycle/submissions/2078601576) |
 
 ---
 
