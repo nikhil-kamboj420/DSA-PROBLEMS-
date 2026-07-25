@@ -4,13 +4,13 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 84
+- Total Problems Solved: 85
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
-- Linked List: 4
+- Linked List: 5
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -226,6 +226,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 141 | Linked List Cycle | Java | [Problem](./Linked%20List/Linked%20List%20Cycle/Problem.text) | [Solution](./Linked%20List/Linked%20List%20Cycle/Solution.text) | [My Submission Link](https://leetcode.com/problems/linked-list-cycle/submissions/2078601576) |
 
 | 143 | Reorder List | Java | [Problem](./Linked%20List/Reorder%20List/Problem.text) | [Solution](./Linked%20List/Reorder%20List/Solution.text) | [My Submission Link](https://leetcode.com/problems/reorder-list/submissions/2079665925) |
+
+| 19 | Remove Nth Node From End of List | Java | [Problem](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/Problem.text) | [Solution](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2080855225) |
 
 ---
 
