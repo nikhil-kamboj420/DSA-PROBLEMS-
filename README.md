@@ -4,13 +4,13 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 86
+- Total Problems Solved: 87
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
-- Linked List: 6
+- Linked List: 7
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -230,6 +230,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 19 | Remove Nth Node From End of List | Java | [Problem](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/Problem.text) | [Solution](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/Solution.text) | [My Submission Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2080855225) |
 
 | 2 | Add Two Numbers | Java | [Problem](./Linked%20List/Add%20Two%20Numbers/Problem.text) | [Solution](./Linked%20List/Add%20Two%20Numbers/Solution.text) | [My Submission Link](https://leetcode.com/problems/add-two-numbers/submissions/2082185588) |
+
+| 287 | Find the Duplicate Number | Java | [Problem](./Linked%20List/Find%20the%20Duplicate%20Number/Problem.text) | [Solution](./Linked%20List/Find%20the%20Duplicate%20Number/Solution.text) | [My Submission Link](https://leetcode.com/problems/find-the-duplicate-number/submissions/2083648054) |
 
 ---
 
