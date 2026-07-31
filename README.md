@@ -4,13 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 90
+- Total Problems Solved: 91
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
+- Trees: 1
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -243,7 +244,7 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 ## Trees
 
-_No problems added yet_
+| 94 | Binary Tree Inorder Traversal | Java | [Problem](./Trees/Binary%20Tree%20Inorder%20Traversal/Problem.text) | [Solution](./Trees/Binary%20Tree%20Inorder%20Traversal/Solution.text) | [My Submission Link](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2089060081) |
 
 ---
 
