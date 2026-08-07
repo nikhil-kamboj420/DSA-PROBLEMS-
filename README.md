@@ -4,14 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 96
+- Total Problems Solved: 97
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
-- Trees: 6
+- Trees: 7
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -255,6 +255,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 104 | Maximum Depth of Binary Tree | Java | [Problem](./Trees/Maximum%20Depth%20of%20Binary%20Tree/Problem.text) | [Solution](./Trees/Maximum%20Depth%20of%20Binary%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2096743089) |
 
 | 543 | Diameter of Binary Tree | Java | [Problem](./Trees/Diameter%20of%20Binary%20Tree/Problem.text) | [Solution](./Trees/Diameter%20of%20Binary%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2096747215) |
+
+| 110 | Balanced Binary Tree | Java | [Problem](./Trees/Balanced%20Binary%20Tree/Problem.text) | [Solution](./Trees/Balanced%20Binary%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/balanced-binary-tree/submissions/2098006120) |
 
 ---
 
