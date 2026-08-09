@@ -4,14 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 99
+- Total Problems Solved: 100
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
-- Trees: 9
+- Trees: 10
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -261,6 +261,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 100 | Same Tree | Java | [Problem](./Trees/Same%20Tree/Problem.text) | [Solution](./Trees/Same%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/same-tree/submissions/2098008768) |
 
 | 572 | Subtree of Another Tree | Java | [Problem](./Trees/Subtree%20of%20Another%20Tree/Problem.text) | [Solution](./Trees/Subtree%20of%20Another%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/subtree-of-another-tree/submissions/2099204862) |
+
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Java | [Problem](./Trees/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Problem.text) | [Solution](./Trees/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2100403801) |
 
 ---
 
