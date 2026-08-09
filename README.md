@@ -4,14 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 100
+- Total Problems Solved: 101
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
-- Trees: 10
+- Trees: 11
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -263,6 +263,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 572 | Subtree of Another Tree | Java | [Problem](./Trees/Subtree%20of%20Another%20Tree/Problem.text) | [Solution](./Trees/Subtree%20of%20Another%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/subtree-of-another-tree/submissions/2099204862) |
 
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Java | [Problem](./Trees/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Problem.text) | [Solution](./Trees/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2100403801) |
+
+| 701 | Insert into a Binary Search Tree | Java | [Problem](./Trees/Insert%20into%20a%20Binary%20Search%20Tree/Problem.text) | [Solution](./Trees/Insert%20into%20a%20Binary%20Search%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2100409473) |
 
 ---
 
