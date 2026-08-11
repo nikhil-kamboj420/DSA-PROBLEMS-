@@ -4,14 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 102
+- Total Problems Solved: 103
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
-- Trees: 12
+- Trees: 13
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -267,6 +267,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 701 | Insert into a Binary Search Tree | Java | [Problem](./Trees/Insert%20into%20a%20Binary%20Search%20Tree/Problem.text) | [Solution](./Trees/Insert%20into%20a%20Binary%20Search%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2100409473) |
 
 | 102 | Binary Tree Level Order Traversal | Java | [Problem](./Trees/Binary%20Tree%20Level%20Order%20Traversal/Problem.text) | [Solution](./Trees/Binary%20Tree%20Level%20Order%20Traversal/Solution.text) | [My Submission Link](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2101617451) |
+
+| 199 | Binary Tree Right Side View | Java | [Problem](./Trees/Binary%20Tree%20Right%20Side%20View/Problem.text) | [Solution](./Trees/Binary%20Tree%20Right%20Side%20View/Solution.text) | [My Submission Link](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2103106923) |
 
 ---
 
