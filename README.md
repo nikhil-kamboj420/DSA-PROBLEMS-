@@ -4,14 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 104
+- Total Problems Solved: 105
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
-- Trees: 14
+- Trees: 15
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -270,7 +270,9 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 
 | 199 | Binary Tree Right Side View | Java | [Problem](./Trees/Binary%20Tree%20Right%20Side%20View/Problem.text) | [Solution](./Trees/Binary%20Tree%20Right%20Side%20View/Solution.text) | [My Submission Link](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2103106923) |
 
-| 1448 | Count Good Nodes in Binary Tree | Java | [Problem]{./Trees/Count%20Good%20Nodes%20in%20Binary%20Tree/Problem.text) | [Solution](./Trees/Count%20Good%20Nodes%20in%20Binary%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2103117511) |
+| 1448 | Count Good Nodes in Binary Tree | Java | [Problem](./Trees/Count%20Good%20Nodes%20in%20Binary%20Tree/Problem.text) | [Solution](./Trees/Count%20Good%20Nodes%20in%20Binary%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2103117511) |
+
+| 98 | Validate Binary Search Tree | Java | [Problem](./Trees/Validate%20Binary%20Search%20Tree/Problem.text) | [Solution](./Trees/Validate%20Binary%20Search%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/validate-binary-search-tree/submissions/2104437591) |
 
 ---
 
