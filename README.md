@@ -4,14 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 105
+- Total Problems Solved: 106
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
-- Trees: 15
+- Trees: 16
 - Greedy: 3
 - Math & Geometry: 1
 - Greedy: 3
@@ -273,6 +273,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 1448 | Count Good Nodes in Binary Tree | Java | [Problem](./Trees/Count%20Good%20Nodes%20in%20Binary%20Tree/Problem.text) | [Solution](./Trees/Count%20Good%20Nodes%20in%20Binary%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2103117511) |
 
 | 98 | Validate Binary Search Tree | Java | [Problem](./Trees/Validate%20Binary%20Search%20Tree/Problem.text) | [Solution](./Trees/Validate%20Binary%20Search%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/validate-binary-search-tree/submissions/2104437591) |
+
+| 450 | Delete Node in a BST | Java | [Problem](./Trees/Delete%20Node%20in%20a%20BST/Problem.text) | [Solution](./Trees/Delete%20Node%20in%20a%20BST/Solution.text) | [My Submission Link](https://leetcode.com/problems/delete-node-in-a-bst/submissions/2105509752) |
 
 ---
 
