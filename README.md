@@ -4,16 +4,14 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 106
+- Total Problems Solved: 107
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
 - Stack: 15
 - Binary Search: 12
 - Linked List: 10
-- Trees: 16
-- Greedy: 3
-- Math & Geometry: 1
+- Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
 
@@ -275,6 +273,8 @@ Follow this sequence to build skills step-by-step. Each step below is a clickabl
 | 98 | Validate Binary Search Tree | Java | [Problem](./Trees/Validate%20Binary%20Search%20Tree/Problem.text) | [Solution](./Trees/Validate%20Binary%20Search%20Tree/Solution.text) | [My Submission Link](https://leetcode.com/problems/validate-binary-search-tree/submissions/2104437591) |
 
 | 450 | Delete Node in a BST | Java | [Problem](./Trees/Delete%20Node%20in%20a%20BST/Problem.text) | [Solution](./Trees/Delete%20Node%20in%20a%20BST/Solution.text) | [My Submission Link](https://leetcode.com/problems/delete-node-in-a-bst/submissions/2105509752) |
+
+| 230 | Kth Smallest Element in a BST | Java | [Problem](./Trees/Kth%20Smallest%20Element%20in%20a%20BST/Problem.text) | [Solution](./Trees/Kth%20Smallest%20Element%20in%20a%20BST/Solution.text) | [My Submission Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2105515393) |
 
 ---
 
