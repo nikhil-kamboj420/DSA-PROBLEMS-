@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 107
+- Total Problems Solved: 108
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,6 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
+- Heap - Priority Queue: 1
 
 # ✅ Start Here (Learning Sequence)
 
@@ -286,7 +287,7 @@ _No problems added yet_
 
 ## Heap - Priority Queue
 
-_No problems added yet_
+| 703 | Kth Largest Element in a Stream | Java | [Problem](./Heap%20-%20Priority%20Queue/Kth%20Largest%20Element%20in%20a%20Stream/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Kth%20Largest%20Element%20in%20a%20Stream/Solution.text) | [My Submission Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2106645483) |
 
 ---
 
