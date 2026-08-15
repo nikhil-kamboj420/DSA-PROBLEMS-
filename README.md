@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 109
+- Total Problems Solved: 110
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,7 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
-- Heap - Priority Queue: 2
+- Heap - Priority Queue: 3
 
 # ✅ Start Here (Learning Sequence)
 
@@ -290,6 +290,8 @@ _No problems added yet_
 | 703 | Kth Largest Element in a Stream | Java | [Problem](./Heap%20-%20Priority%20Queue/Kth%20Largest%20Element%20in%20a%20Stream/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Kth%20Largest%20Element%20in%20a%20Stream/Solution.text) | [My Submission Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2106645483) |
 
 | 1046 | Last Stone Weight | Java | [Problem](./Heap%20-%20Priority%20Queue/Last%20Stone%20Weight/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Last%20Stone%20Weight/Solution.text) | [My Submission Link](https://leetcode.com/problems/last-stone-weight/submissions/2106656481) |
+
+| 973 | K Closest Points to Origin | Java | [Problem](./Heap%20-%20Priority%20Queue/K%20Closest%20Points%20to%20Origin/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/K%20Closest%20Points%20to%20Origin/Solution.text) | [My Submission Link](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2107714684) |
 
 ---
 
