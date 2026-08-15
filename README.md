@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 110
+- Total Problems Solved: 111
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,7 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
-- Heap - Priority Queue: 3
+- Heap - Priority Queue: 4
 
 # ✅ Start Here (Learning Sequence)
 
@@ -292,6 +292,8 @@ _No problems added yet_
 | 1046 | Last Stone Weight | Java | [Problem](./Heap%20-%20Priority%20Queue/Last%20Stone%20Weight/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Last%20Stone%20Weight/Solution.text) | [My Submission Link](https://leetcode.com/problems/last-stone-weight/submissions/2106656481) |
 
 | 973 | K Closest Points to Origin | Java | [Problem](./Heap%20-%20Priority%20Queue/K%20Closest%20Points%20to%20Origin/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/K%20Closest%20Points%20to%20Origin/Solution.text) | [My Submission Link](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2107714684) |
+
+| 215 | Kth Largest Element in an Array | Java | [Problem](./Heap%20-%20Priority%20Queue/Kth%20Largest%20Element%20in%20an%20Array/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Kth%20Largest%20Element%20in%20an%20Array/Solution.text) | [My Submission Link](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2107721206) |
 
 ---
 
