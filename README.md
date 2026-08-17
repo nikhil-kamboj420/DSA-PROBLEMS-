@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 113
+- Total Problems Solved: 114
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,7 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
-- Heap - Priority Queue: 6
+- Heap - Priority Queue: 7
 
 # ✅ Start Here (Learning Sequence)
 
@@ -298,6 +298,8 @@ _No problems added yet_
 | 621 | Task Scheduler | Java | [Problem](./Heap%20-%20Priority%20Queue/Task%20Scheduler/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Task%20Scheduler/Solution.text) | [My Submission Link](https://leetcode.com/problems/task-scheduler/submissions/2108965397) |
 
 | 767 | Reorganize String | Java | [Problem](./Heap%20-%20Priority%20Queue/Reorganize%20String/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Reorganize%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/reorganize-string/submissions/2108971186) |
+
+| 1094 | Car Pooling | Java | [Problem](./Heap%20-%20Priority%20Queue/Car%20Pooling/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Car%20Pooling/Solution.text) | [My Submission Link](https://leetcode.com/problems/car-pooling/submissions/2110192468) |
 
 ---
 
