@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 114
+- Total Problems Solved: 115
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,7 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
-- Heap - Priority Queue: 7
+- Heap - Priority Queue: 8
 
 # ✅ Start Here (Learning Sequence)
 
@@ -300,6 +300,8 @@ _No problems added yet_
 | 767 | Reorganize String | Java | [Problem](./Heap%20-%20Priority%20Queue/Reorganize%20String/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Reorganize%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/reorganize-string/submissions/2108971186) |
 
 | 1094 | Car Pooling | Java | [Problem](./Heap%20-%20Priority%20Queue/Car%20Pooling/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Car%20Pooling/Solution.text) | [My Submission Link](https://leetcode.com/problems/car-pooling/submissions/2110192468) |
+
+| 347 | Top K Frequent Elements | Java | [Problem](./Heap%20-%20Priority%20Queue/Top%20K%20Frequent%20Elements/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Top%20K%20Frequent%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2110202161) |
 
 ---
 
