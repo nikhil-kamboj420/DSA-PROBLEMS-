@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 116
+- Total Problems Solved: 117
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,7 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
-- Heap - Priority Queue: 9
+- Heap - Priority Queue: 10
 
 # ✅ Start Here (Learning Sequence)
 
@@ -304,6 +304,8 @@ _No problems added yet_
 | 347 | Top K Frequent Elements | Java | [Problem](./Heap%20-%20Priority%20Queue/Top%20K%20Frequent%20Elements/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Top%20K%20Frequent%20Elements/Solution.text) | [My Submission Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/2110202161) |
 
 | 1834 | Single-Threaded CPU | Java | [Problem](./Heap%20-%20Priority%20Queue/Single-Threaded%20CPU/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Single-Threaded%20CPU/Solution.text) | [My Submission Link](https://leetcode.com/problems/single-threaded-cpu/submissions/2111684560) |
+
+| 1405 | Longest Happy String | Java | [Problem](./Heap%20-%20Priority%20Queue/Longest%20Happy%20String/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Longest%20Happy%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-happy-string/submissions/2111695056) |
 
 ---
 
