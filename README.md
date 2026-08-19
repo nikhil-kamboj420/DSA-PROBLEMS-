@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 117
+- Total Problems Solved: 119
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,6 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
+- Backtracking: 2
 - Heap - Priority Queue: 10
 
 # ✅ Start Here (Learning Sequence)
@@ -308,14 +309,15 @@ _No problems added yet_
 | 1405 | Longest Happy String | Java | [Problem](./Heap%20-%20Priority%20Queue/Longest%20Happy%20String/Problem.text) | [Solution](./Heap%20-%20Priority%20Queue/Longest%20Happy%20String/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-happy-string/submissions/2111695056) |
 
 ---
+ 
+ ## Backtracking
 
-## Backtracking
-
-_No problems added yet_
+| 39 | Combination Sum | Java | [Problem](./Backtracking/Combination%20Sum/Problem.text) | [Solution](./Backtracking/Combination%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/combination-sum/submissions/2112874528) |
+| 78 | Subsets | Java | [Problem](./Backtracking/Subsets/Problem.text) | [Solution](./Backtracking/Subsets/Solution.text) | [My Submission Link](https://leetcode.com/problems/subsets/submissions/2112870767) |
 
 ---
-
-## Graphs
+ 
+ ## Graphs
 
 _No problems added yet_
 
