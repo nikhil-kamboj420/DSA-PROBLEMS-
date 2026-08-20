@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 120
+- Total Problems Solved: 121
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,7 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
-- Backtracking: 3
+- Backtracking: 4
 - Heap - Priority Queue: 10
 
 # ✅ Start Here (Learning Sequence)
@@ -315,6 +315,8 @@ _No problems added yet_
 | 39 | Combination Sum | Java | [Problem](./Backtracking/Combination%20Sum/Problem.text) | [Solution](./Backtracking/Combination%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/combination-sum/submissions/2112874528) |
 
 | 40 | Combination Sum II | Java | [Problem](./Backtracking/Combination%20Sum%20II/Problem.text) | [Solution](./Backtracking/Combination%20Sum%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/combination-sum-ii/submissions/2113844665) |
+
+| 77 | Combinations | Java | [Problem](./Backtracking/Combinations/Problem.text) | [Solution](./Backtracking/Combinations/Solution.text) | [My Submission Link](https://leetcode.com/problems/combinations/submissions/2113847024) |
 
 | 78 | Subsets | Java | [Problem](./Backtracking/Subsets/Problem.text) | [Solution](./Backtracking/Subsets/Solution.text) | [My Submission Link](https://leetcode.com/problems/subsets/submissions/2112870767) |
 
