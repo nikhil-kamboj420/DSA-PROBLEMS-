@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 122
+- Total Problems Solved: 123
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -14,7 +14,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Trees: 17
 - Greedy: 3
 - Math & Geometry: 1
-- Backtracking: 5
+- Backtracking: 6
 - Heap - Priority Queue: 10
 
 # ✅ Start Here (Learning Sequence)
@@ -321,6 +321,8 @@ _No problems added yet_
 | 78 | Subsets | Java | [Problem](./Backtracking/Subsets/Problem.text) | [Solution](./Backtracking/Subsets/Solution.text) | [My Submission Link](https://leetcode.com/problems/subsets/submissions/2112870767) |
 
 | 46 | Permutations | Java | [Problem](./Backtracking/Permutations/Problem.text) | [Solution](./Backtracking/Permutations/Solution.text) | [My Submission Link](https://leetcode.com/problems/permutations/submissions/2115091626) |
+
+| 90 | Subsets II | Java | [Problem](./Backtracking/Subsets%20II/Problem.text) | [Solution](./Backtracking/Subsets%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/subsets-ii/submissions/2115094361) |
 
 ---
  
