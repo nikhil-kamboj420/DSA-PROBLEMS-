@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 127
+- Total Problems Solved: 128
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -16,7 +16,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
-- Graphs: 1
+- Graphs: 2
 
 # ✅ Start Here (Learning Sequence)
 
@@ -336,6 +336,8 @@ _No problems added yet_
  ## Graphs
 
 | 463 | Island Perimeter | Java | [Problem](./Graphs/Island%20Perimeter/Problem.text) | [Solution](./Graphs/Island%20Perimeter/Solution.text) | [My Submission Link](https://leetcode.com/problems/island-perimeter/submissions/2117402354) |
+
+| 695 | Max Area of Island | Java | [Problem](./Graphs/Max%20Area%20of%20Island/Problem.text) | [Solution](./Graphs/Max%20Area%20of%20Island/Solution.text) | [My Submission Link](https://leetcode.com/problems/max-area-of-island/submissions/2118411094) |
 
 ---
 
