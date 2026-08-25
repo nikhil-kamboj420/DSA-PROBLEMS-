@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 129
+- Total Problems Solved: 130
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -16,7 +16,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
-- Graphs: 3
+- Graphs: 4
 
 # ✅ Start Here (Learning Sequence)
 
@@ -340,6 +340,8 @@ _No problems added yet_
 | 695 | Max Area of Island | Java | [Problem](./Graphs/Max%20Area%20of%20Island/Problem.text) | [Solution](./Graphs/Max%20Area%20of%20Island/Solution.text) | [My Submission Link](https://leetcode.com/problems/max-area-of-island/submissions/2118411094) |
 
 | 133 | Clone Graph | Java | [Problem](./Graphs/Clone%20Graph/Problem.text) | [Solution](./Graphs/Clone%20Graph/Solution.text) | [My Submission Link](https://leetcode.com/problems/clone-graph/submissions/2118413960) |
+
+| 994 | Rotting Oranges | Java | [Problem](./Graphs/Rotting%20Oranges/Problem.text) | [Solution](./Graphs/Rotting%20Oranges/Solution.text) | [My Submission Link](https://leetcode.com/problems/rotting-oranges/submissions/2119895024) |
 
 ---
 
