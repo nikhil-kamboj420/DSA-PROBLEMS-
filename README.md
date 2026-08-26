@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 131
+- Total Problems Solved: 132
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -16,7 +16,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
-- Graphs: 5
+- Graphs: 6
 
 # ✅ Start Here (Learning Sequence)
 
@@ -344,6 +344,8 @@ _No problems added yet_
 | 994 | Rotting Oranges | Java | [Problem](./Graphs/Rotting%20Oranges/Problem.text) | [Solution](./Graphs/Rotting%20Oranges/Solution.text) | [My Submission Link](https://leetcode.com/problems/rotting-oranges/submissions/2119895024) |
 
 | 417 | Pacific Atlantic Water Flow | Java | [Problem](./Graphs/Pacific%20Atlantic%20Water%20Flow/Problem.text) | [Solution](./Graphs/Pacific%20Atlantic%20Water%20Flow/Solution.text) | [My Submission Link](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2119900980) |
+
+| 130 | Surrounded Regions | Java | [Problem](./Graphs/Surrounded%20Regions/Problem.text) | [Solution](./Graphs/Surrounded%20Regions/Solution.text) | [My Submission Link](https://leetcode.com/problems/surrounded-regions/submissions/2120980379) |
 
 ---
 
