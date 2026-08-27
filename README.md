@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 134
+- Total Problems Solved: 135
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -16,7 +16,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
-- Graphs: 8
+- Graphs: 9
 
 # ✅ Start Here (Learning Sequence)
 
@@ -350,6 +350,8 @@ _No problems added yet_
 | 207 | Course Schedule | Java | [Problem](./Graphs/Course%20Schedule/Problem.text) | [Solution](./Graphs/Course%20Schedule/Solution.text) | [My Submission Link](https://leetcode.com/problems/course-schedule/submissions/2120983124) |
 
 | 210 | Course Schedule II | Java | [Problem](./Graphs/Course%20Schedule%20II/Problem.text) | [Solution](./Graphs/Course%20Schedule%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/course-schedule-ii/submissions/2121912085) |
+
+| 684 | Redundant Connection | Java | [Problem](./Graphs/Redundant%20Connection/Problem.text) | [Solution](./Graphs/Redundant%20Connection/Solution.text) | [My Submission Link](https://leetcode.com/problems/redundant-connection/submissions/2121914952) |
 
 ---
 
