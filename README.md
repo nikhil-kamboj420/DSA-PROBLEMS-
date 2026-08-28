@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 136
+- Total Problems Solved: 137
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -17,7 +17,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Backtracking: 9
 - Heap - Priority Queue: 10
 - Graphs: 9
-- 1-D Dynamic Programming: 1
+- 1-D Dynamic Programming: 2
 
 # ✅ Start Here (Learning Sequence)
 
@@ -365,6 +365,8 @@ _No problems added yet_
 ## 1-D Dynamic Programming
 
 | 70 | Climbing Stairs | Java | [Problem](./1-D%20Dynamic%20Programming/Climbing%20Stairs/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Climbing%20Stairs/Solution.text) | [My Submission Link](https://leetcode.com/problems/climbing-stairs/submissions/2123055117) |
+
+| 746 | Min Cost Climbing Stairs | Java | [Problem](./1-D%20Dynamic%20Programming/Min%20Cost%20Climbing%20Stairs/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Min%20Cost%20Climbing%20Stairs/Solution.text) | [My Submission Link](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2123058679) |
 
 ---
 
