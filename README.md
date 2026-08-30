@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 140
+- Total Problems Solved: 141
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -17,7 +17,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Backtracking: 9
 - Heap - Priority Queue: 10
 - Graphs: 9
-- 1-D Dynamic Programming: 5
+- 1-D Dynamic Programming: 6
 
 # ✅ Start Here (Learning Sequence)
 
@@ -373,6 +373,8 @@ _No problems added yet_
 | 198 | House Robber | Java | [Problem](./1-D%20Dynamic%20Programming/House%20Robber/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/House%20Robber/Solution.text) | [My Submission Link](https://leetcode.com/problems/house-robber/submissions/2123845914) |
 
 | 213 | House Robber II | Java | [Problem](./1-D%20Dynamic%20Programming/House%20Robber%20II/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/House%20Robber%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/house-robber-ii/submissions/2125105064) |
+
+| 5 | Longest Palindromic Substring | Java | [Problem](./1-D%20Dynamic%20Programming/Longest%20Palindromic%20Substring/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Longest%20Palindromic%20Substring/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-palindromic-substring/submissions/2125108585) |
 
 ---
 
