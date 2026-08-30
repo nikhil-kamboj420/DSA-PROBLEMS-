@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 139
+- Total Problems Solved: 140
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -17,7 +17,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Backtracking: 9
 - Heap - Priority Queue: 10
 - Graphs: 9
-- 1-D Dynamic Programming: 4
+- 1-D Dynamic Programming: 5
 
 # ✅ Start Here (Learning Sequence)
 
@@ -371,6 +371,8 @@ _No problems added yet_
 | 1137 | N-th Tribonacci Number | Java | [Problem](./1-D%20Dynamic%20Programming/N-th%20Tribonacci%20Number/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/N-th%20Tribonacci%20Number/Solution.text) | [My Submission Link](https://leetcode.com/problems/n-th-tribonacci-number/submissions/2123844229) |
 
 | 198 | House Robber | Java | [Problem](./1-D%20Dynamic%20Programming/House%20Robber/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/House%20Robber/Solution.text) | [My Submission Link](https://leetcode.com/problems/house-robber/submissions/2123845914) |
+
+| 213 | House Robber II | Java | [Problem](./1-D%20Dynamic%20Programming/House%20Robber%20II/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/House%20Robber%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/house-robber-ii/submissions/2125105064) |
 
 ---
 
