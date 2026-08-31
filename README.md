@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 142
+- Total Problems Solved: 143
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -17,7 +17,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Backtracking: 9
 - Heap - Priority Queue: 10
 - Graphs: 9
-- 1-D Dynamic Programming: 7
+- 1-D Dynamic Programming: 8
 
 # ✅ Start Here (Learning Sequence)
 
@@ -377,6 +377,8 @@ _No problems added yet_
 | 5 | Longest Palindromic Substring | Java | [Problem](./1-D%20Dynamic%20Programming/Longest%20Palindromic%20Substring/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Longest%20Palindromic%20Substring/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-palindromic-substring/submissions/2125108585) |
 
 | 647 | Palindromic Substrings | Java | [Problem](./1-D%20Dynamic%20Programming/Palindromic%20Substrings/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Palindromic%20Substrings/Solution.text) | [My Submission Link](https://leetcode.com/problems/palindromic-substrings/submissions/2126304923) |
+
+| 91 | Decode Ways | Java | [Problem](./1-D%20Dynamic%20Programming/Decode%20Ways/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Decode%20Ways/Solution.text) | [My Submission Link](https://leetcode.com/problems/decode-ways/submissions/2126314583) |
 
 ---
 
