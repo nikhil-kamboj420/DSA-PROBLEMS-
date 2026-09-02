@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 146
+- Total Problems Solved: 147
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -17,7 +17,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Backtracking: 9
 - Heap - Priority Queue: 10
 - Graphs: 9
-- 1-D Dynamic Programming: 11
+- 1-D Dynamic Programming: 12
 
 # ✅ Start Here (Learning Sequence)
 
@@ -386,6 +386,7 @@ _No problems added yet_
 
 | 139 | Word Break | Java | [Problem](./1-D%20Dynamic%20Programming/Word%20Break/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Word%20Break/Solution.text) | [My Submission Link](https://leetcode.com/problems/word-break/submissions/2128679766) |
 
+| 300 | Longest Increasing Subsequence | Java | [Problem](./1-D%20Dynamic%20Programming/Longest%20Increasing%20Subsequence/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Longest%20Increasing%20Subsequence/Solution.text) | [My Submission Link](https://leetcode.com/problems/longest-increasing-subsequence/submissions/2128693318) |
 ---
 
 ## 2-D Dynamic Programming
