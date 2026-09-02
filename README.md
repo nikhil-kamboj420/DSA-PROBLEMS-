@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 145
+- Total Problems Solved: 146
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -17,7 +17,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Backtracking: 9
 - Heap - Priority Queue: 10
 - Graphs: 9
-- 1-D Dynamic Programming: 10
+- 1-D Dynamic Programming: 11
 
 # ✅ Start Here (Learning Sequence)
 
@@ -383,6 +383,8 @@ _No problems added yet_
 | 322 | Coin Change | Java | [Problem](./1-D%20Dynamic%20Programming/Coin%20Change/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Coin%20Change/Solution.text) | [My Submission Link](https://leetcode.com/problems/coin-change/submissions/2127185542) |
 
 | 152 | Maximum Product Subarray | Java | [Problem](./1-D%20Dynamic%20Programming/Maximum%20Product%20Subarray/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Maximum%20Product%20Subarray/Solution.text) | [My Submission Link](https://leetcode.com/problems/maximum-product-subarray/submissions/2127188210) |
+
+| 139 | Word Break | Java | [Problem](./1-D%20Dynamic%20Programming/Word%20Break/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Word%20Break/Solution.text) | [My Submission Link](https://leetcode.com/problems/word-break/submissions/2128679766) |
 
 ---
 
