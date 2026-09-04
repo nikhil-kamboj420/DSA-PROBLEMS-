@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 149
+- Total Problems Solved: 150
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -17,7 +17,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Backtracking: 9
 - Heap - Priority Queue: 10
 - Graphs: 9
-- 1-D Dynamic Programming: 14
+- 1-D Dynamic Programming: 15
 
 # ✅ Start Here (Learning Sequence)
 
@@ -391,6 +391,8 @@ _No problems added yet_
 | 416 | Partition Equal Subset Sum | Java | [Problem](./1-D%20Dynamic%20Programming/Partition%20Equal%20Subset%20Sum/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Partition%20Equal%20Subset%20Sum/Solution.text) | [My Submission Link](https://leetcode.com/problems/partition-equal-subset-sum/submissions/2129678939) |
 
 | 377 | Combination Sum IV | Java | [Problem](./1-D%20Dynamic%20Programming/Combination%20Sum%20IV/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Combination%20Sum%20IV/Solution.text) | [My Submission Link](https://leetcode.com/problems/combination-sum-iv/submissions/2129685938) |
+
+| 279 | Perfect Squares | Java | [Problem](./1-D%20Dynamic%20Programming/Perfect%20Squares/Problem.text) | [Solution](./1-D%20Dynamic%20Programming/Perfect%20Squares/Solution.text) | [My Submission Link](https://leetcode.com/problems/perfect-squares/submissions/2130699418) |
 ---
 
 ## 2-D Dynamic Programming
