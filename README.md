@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 151
+- Total Problems Solved: 152
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -18,6 +18,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Heap - Priority Queue: 10
 - Graphs: 9
 - 1-D Dynamic Programming: 16
+- Intervals: 1
 
 # ✅ Start Here (Learning Sequence)
 
@@ -414,8 +415,7 @@ _No problems added yet_
 
 ## Intervals
 
-_No problems added yet_
-
+| 57 | Insert Interval | Java | [Problem](./Intervals/Insert%20Interval/Problem.text) | [Solution](./Intervals/Insert%20Interval/Solution.text) | [My Submission Link](https://leetcode.com/problems/insert-interval/submissions/2131775456) |
 ---
 
 ## Math & Geometry
