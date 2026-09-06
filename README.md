@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 154
+- Total Problems Solved: 155
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -12,7 +12,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Binary Search: 12
 - Linked List: 10
 - Trees: 17
-- Greedy: 3
+- Greedy: 4
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
@@ -411,6 +411,7 @@ _No problems added yet_
 
 | 122 | Best Time to Buy and Sell Stock II | Java | [Problem](./Greedy/%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Problem.text) | [Solution](./Greedy/%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2052361923) |
 
+| 55 | Jump Game | Java | [Problem](./Greedy/Jump%20Game/Problem.text) | [Solution](./Greedy/Jump%20Game/Solution.text) | [My Submission Link](https://leetcode.com/problems/jump-game/submissions/2132895717) |
 ---
 
 ## Intervals
