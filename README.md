@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 156
+- Total Problems Solved: 157
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -12,7 +12,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Binary Search: 12
 - Linked List: 10
 - Trees: 17
-- Greedy: 5
+- Greedy: 6
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
@@ -411,8 +411,9 @@ _No problems added yet_
 
 | 122 | Best Time to Buy and Sell Stock II | Java | [Problem](./Greedy/%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Problem.text) | [Solution](./Greedy/%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2052361923) |
 | 55 | Jump Game | Java | [Problem](./Greedy/Jump%20Game/Problem.text) | [Solution](./Greedy/Jump%20Game/Solution.text) | [My Submission Link](https://leetcode.com/problems/jump-game/submissions/2132895717) |
-
 | 45 | Jump Game II | Java | [Problem](./Greedy/Jump%20Game%20II/Problem.text) | [Solution](./Greedy/Jump%20Game%20II/Solution.text) | [My Submission Link](https://leetcode.com/problems/jump-game-ii/submissions/2133859692) |
+
+| 134 | Gas Station | Java | [Problem](./Greedy/Gas%20Station/Problem.text) | [Solution](./Greedy/Gas%20Station/Solution.text) | [My Submission Link](https://leetcode.com/problems/gas-station/submissions/2133864681) |
 ---
 
 ## Intervals
