@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 157
+- Total Problems Solved: 158
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -13,6 +13,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Linked List: 10
 - Trees: 17
 - Greedy: 6
+- Bit Manipulation: 1
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
@@ -433,4 +434,4 @@ _No problems added yet_
 
 ## Bit Manipulation
 
-_No problems added yet_
+| 136 | Single Number | Java | [Problem](./Bit%20Manipulation/Single%20Number/Problem.text) | [Solution](./Bit%20Manipulation/Single%20Number/Solution.text) | [My Submission Link](https://leetcode.com/problems/single-number/submissions/2135499398) |
