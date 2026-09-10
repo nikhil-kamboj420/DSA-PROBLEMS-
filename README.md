@@ -4,7 +4,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 
 # 📊 Repository Stats
 
-- Total Problems Solved: 162
+- Total Problems Solved: 163
 - Arrays & Hashing: 22
 - Two Pointers: 17
 - Sliding Window: 10
@@ -13,7 +13,7 @@ Solving DSA problems for a better understanding of data structures and algorithm
 - Linked List: 10
 - Trees: 17
 - Greedy: 6
-- Bit Manipulation: 5
+- Bit Manipulation: 6
 - Math & Geometry: 1
 - Backtracking: 9
 - Heap - Priority Queue: 10
@@ -443,3 +443,5 @@ _No problems added yet_
 | 67 | Add Binary | Java | [Problem](./Bit%20Manipulation/Add%20Binary/Problem.text) | [Solution](./Bit%20Manipulation/Add%20Binary/Solution.text) | [My Submission Link](https://leetcode.com/problems/add-binary/submissions/2136444289) |
 
 | 190 | Reverse Bits | Java | [Problem](./Bit%20Manipulation/Reverse%20Bits/Problem.text) | [Solution](./Bit%20Manipulation/Reverse%20Bits/Solution.text) | [My Submission Link](https://leetcode.com/problems/reverse-bits/submissions/2137764888) |
+
+| 268 | Missing Number | Java | [Problem](./Bit%20Manipulation/Missing%20Number/Problem.text) | [Solution](./Bit%20Manipulation/Missing%20Number/Solution.text) | [My Submission Link](https://leetcode.com/problems/missing-number/submissions/2137770447) |
